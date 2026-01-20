@@ -1,0 +1,16 @@
+state,district,reference_month,forecast_1m,forecast_3m_avg,uncertainty_lower,uncertainty_upper,demand_level,operational_note
+Delhi,Delhi_District_1,2025-12,11435,11389,10772,12097,Normal,Forecast within normal range. Standard operations.
+Delhi,Delhi_District_2,2025-12,9971,9877,9096,10847,Normal,Forecast within normal range. Standard operations.
+Delhi,Delhi_District_3,2025-12,9433,9301,8597,10270,Normal,Forecast within normal range. Standard operations.
+Karnataka,Karnataka_District_1,2025-12,11316,11188,10395,12237,Normal,Forecast within normal range. Standard operations.
+Karnataka,Karnataka_District_2,2025-12,14006,13997,13157,14856,Normal,Forecast within normal range. Standard operations.
+Karnataka,Karnataka_District_3,2025-12,13283,13088,12247,14320,Normal,Forecast within normal range. Standard operations.
+Maharashtra,Maharashtra_District_1,2025-12,12845,12708,11670,14020,Normal,Forecast within normal range. Standard operations.
+Maharashtra,Maharashtra_District_2,2025-12,10024,9906,8632,11416,Normal,Forecast within normal range. Standard operations.
+Maharashtra,Maharashtra_District_3,2025-12,12275,12178,11287,13263,Normal,Forecast within normal range. Standard operations.
+Tamil Nadu,Tamil Nadu_District_1,2025-12,12792,12783,12005,13580,Normal,Forecast within normal range. Standard operations.
+Tamil Nadu,Tamil Nadu_District_2,2025-12,13798,13625,12842,14754,Normal,Forecast within normal range. Standard operations.
+Tamil Nadu,Tamil Nadu_District_3,2025-12,13887,13799,12877,14896,Normal,Forecast within normal range. Standard operations.
+West Bengal,West Bengal_District_1,2025-12,14223,14163,13493,14953,Normal,Forecast within normal range. Standard operations.
+West Bengal,West Bengal_District_2,2025-12,9441,9457,8714,10169,Elevated,Forecast 1% above avg. Monitor closely.
+West Bengal,West Bengal_District_3,2025-12,11836,11737,11182,12491,Normal,Forecast within normal range. Standard operations.

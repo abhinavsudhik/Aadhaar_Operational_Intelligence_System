@@ -1,0 +1,1027 @@
+state,district,reference_month,normal_capacity,predicted_updates_next_month,stress_likelihood,risk_level
+Delhi,South Delhi,2025-12-01,818.25,892.67,1.0,High
+Assam,Marigaon,2025-12-01,537.0,583.67,1.0,High
+Uttar Pradesh,Pilibhit,2025-12-01,369.75,385.33,1.0,High
+Assam,Sonitpur,2025-12-01,1417.0,1570.67,1.0,High
+Uttar Pradesh,Moradabad,2025-12-01,748.5,770.0,1.0,High
+Uttar Pradesh,Meerut,2025-12-01,930.75,963.67,1.0,High
+Bihar,Gaya,2025-12-01,1413.0,1470.67,1.0,High
+Uttarakhand,Dehradun,2025-12-01,1298.0,1474.33,1.0,High
+Bihar,Kaimur (Bhabua),2025-12-01,460.25,481.67,1.0,High
+Uttar Pradesh,Maharajganj,2025-12-01,656.0,689.67,1.0,High
+Bihar,Madhubani,2025-12-01,1727.0,1882.67,1.0,High
+Uttar Pradesh,Kheri,2025-12-01,1061.0,1126.67,1.0,High
+Uttar Pradesh,Kanpur Nagar,2025-12-01,1716.0,1821.0,1.0,High
+Bihar,Sitamarhi,2025-12-01,961.0,1053.0,1.0,High
+Chhattisgarh,Bijapur,2025-12-01,218.0,249.0,1.0,High
+Uttar Pradesh,Ghaziabad,2025-12-01,1204.25,1235.33,1.0,High
+Uttar Pradesh,Gautam Buddha Nagar,2025-12-01,909.0,978.0,1.0,High
+Delhi,Central Delhi,2025-12-01,374.5,387.67,1.0,High
+Delhi,East Delhi,2025-12-01,359.75,377.0,1.0,High
+Assam,Nagaon,2025-12-01,1392.75,1462.67,1.0,High
+Uttar Pradesh,Varanasi,2025-12-01,1459.0,1543.67,1.0,High
+Delhi,North West Delhi,2025-12-01,703.0,759.33,1.0,High
+Assam,Lakhimpur,2025-12-01,643.0,712.67,1.0,High
+Assam,Bongaigaon,2025-12-01,496.0,529.67,1.0,High
+Uttar Pradesh,Rampur,2025-12-01,388.0,424.0,1.0,High
+Assam,Barpeta,2025-12-01,840.0,922.33,1.0,High
+Assam,Dhubri,2025-12-01,834.75,879.33,1.0,High
+Assam,Dibrugarh,2025-12-01,953.0,971.67,1.0,High
+Uttar Pradesh,Saharanpur,2025-12-01,875.0,923.67,1.0,High
+Assam,Goalpara,2025-12-01,518.25,537.33,1.0,High
+Assam,Golaghat,2025-12-01,708.25,763.33,1.0,High
+Assam,Hojai,2025-12-01,411.25,435.0,1.0,High
+Assam,Jorhat,2025-12-01,1031.75,1124.0,1.0,High
+Uttar Pradesh,Shahjahanpur,2025-12-01,695.75,723.33,1.0,High
+Assam,Kamrup,2025-12-01,1404.0,1570.0,1.0,High
+Assam,Kamrup Metro,2025-12-01,1449.25,1460.0,1.0,High
+Assam,Karimganj,2025-12-01,1012.75,1076.67,1.0,High
+Assam,Kokrajhar,2025-12-01,621.0,676.33,1.0,High
+Uttar Pradesh,Sitapur,2025-12-01,1014.5,1067.67,1.0,High
+Uttar Pradesh,Sultanpur,2025-12-01,1270.0,1333.33,1.0,High
+Uttar Pradesh,Fatehpur,2025-12-01,1024.0,1062.33,1.0,High
+Assam,Dhemaji,2025-12-01,434.0,496.67,1.0,High
+Assam,Darrang,2025-12-01,555.75,579.67,1.0,High
+Maharashtra,Nanded,2025-12-01,1639.75,1810.67,1.0,High
+Rajasthan,Bikaner,2025-12-01,1027.5,1081.0,1.0,High
+Rajasthan,Alwar,2025-12-01,1820.75,1943.33,1.0,High
+Punjab,Kapurthala,2025-12-01,799.0,859.0,1.0,High
+Punjab,Hoshiarpur,2025-12-01,1836.0,1890.67,1.0,High
+Punjab,Amritsar,2025-12-01,1457.75,1493.67,1.0,High
+Madhya Pradesh,Katni,2025-12-01,542.75,600.33,1.0,High
+Maharashtra,Hingoli,2025-12-01,411.5,471.67,1.0,High
+Meghalaya,East Jaintia Hills,2025-12-01,77.5,82.67,1.0,High
+Delhi,South West Delhi,2025-12-01,1035.0,1072.0,1.0,High
+Meghalaya,East Khasi Hills,2025-12-01,869.0,873.67,1.0,High
+Meghalaya,Ri Bhoi,2025-12-01,217.0,213.67,1.0,High
+Meghalaya,South West Khasi Hills,2025-12-01,98.0,99.0,1.0,High
+Meghalaya,West Garo Hills,2025-12-01,299.25,297.0,1.0,High
+Meghalaya,West Jaintia Hills,2025-12-01,118.0,123.33,1.0,High
+Meghalaya,West Khasi Hills,2025-12-01,82.0,81.0,1.0,High
+Nagaland,Dimapur,2025-12-01,267.5,281.33,1.0,High
+Rajasthan,Jodhpur,2025-12-01,1592.5,1674.67,1.0,High
+Rajasthan,Sirohi,2025-12-01,682.75,745.67,1.0,High
+Haryana,Faridabad,2025-12-01,561.0,623.33,1.0,High
+Uttar Pradesh,Bahraich,2025-12-01,859.0,958.33,1.0,High
+Uttar Pradesh,Chandauli,2025-12-01,736.25,750.33,1.0,High
+Uttar Pradesh,Budaun,2025-12-01,919.75,973.0,1.0,High
+Uttar Pradesh,Bareilly,2025-12-01,1007.5,1061.0,1.0,High
+West Bengal,Jalpaiguri,2025-12-01,2654.75,2737.67,1.0,High
+Gujarat,Chhotaudepur,2025-12-01,532.25,544.33,1.0,High
+Himachal Pradesh,Kullu,2025-12-01,985.0,929.67,1.0,High
+Uttar Pradesh,Banda,2025-12-01,470.0,492.67,1.0,High
+Telangana,Hyderabad,2025-12-01,2378.0,2520.0,1.0,High
+West Bengal,Kolkata,2025-12-01,2982.25,3176.33,1.0,High
+Uttar Pradesh,Agra,2025-12-01,1083.0,1175.67,1.0,High
+Uttar Pradesh,Aligarh,2025-12-01,1388.0,1448.67,1.0,High
+Maharashtra,Satara,2025-12-01,2856.75,3110.33,0.8333,High
+Jharkhand,Bokaro *,2025-12-01,0.5,0.5,0.8,High
+Orissa,Nabarangapur,2025-12-01,6.5,6.5,0.8,High
+Jammu & Kashmir,Anantnag,2025-12-01,5.0,5.0,0.8,High
+Tamil Nadu,Kanchipuram,2025-12-01,2.5,3.33,0.8,High
+Jammu & Kashmir,Kargil,2025-12-01,4.5,3.0,0.8,High
+Jammu & Kashmir,Rajauri,2025-12-01,10.5,10.5,0.8,High
+100000,100000,2025-12-01,0.5,0.67,0.8,High
+Himachal Pradesh,Lahaul and Spiti,2025-12-01,31.5,31.5,0.8,High
+West Bengal,HOOGHLY,2025-12-01,7.0,7.0,0.8,High
+Tamil Nadu,Tuticorin,2025-12-01,3.0,3.0,0.7771,High
+Orissa,Khorda,2025-12-01,3.0,3.0,0.7771,High
+Orissa,Subarnapur,2025-12-01,17.5,14.33,0.7631,High
+West Bengal,Darjeeling,2025-12-01,1889.75,2026.0,0.75,High
+Gujarat,Morbi,2025-12-01,344.0,374.33,0.75,High
+Uttar Pradesh,Unnao,2025-12-01,1085.0,1141.33,0.75,High
+Orissa,Anugul,2025-12-01,101.25,89.33,0.7489,High
+West Bengal,hooghly,2025-12-01,12.0,10.67,0.7464,High
+Uttar Pradesh,Raebareli,2025-12-01,7.0,7.0,0.7232,High
+West Bengal,HOWRAH,2025-12-01,11.0,11.0,0.7086,High
+West Bengal,MALDA,2025-12-01,19.0,15.67,0.6948,High
+Nagaland,Meluri,2025-12-01,31.5,26.67,0.6722,High
+Madhya Pradesh,Chhatarpur,2025-12-01,776.25,838.67,0.6667,Medium
+West Bengal,Nadia,2025-12-01,3015.5,3108.67,0.6667,Medium
+Assam,West Karbi Anglong,2025-12-01,114.5,144.33,0.6667,Medium
+Manipur,Pherzawl,2025-12-01,19.0,17.67,0.6667,Medium
+Punjab,Gurdaspur,2025-12-01,1339.5,1355.33,0.6667,Medium
+Bihar,Muzaffarpur,2025-12-01,2042.0,2190.0,0.6667,Medium
+Punjab,Ludhiana,2025-12-01,2400.0,2683.0,0.6667,Medium
+Bihar,Bhagalpur,2025-12-01,1309.0,1340.0,0.6667,Medium
+Madhya Pradesh,Gwalior,2025-12-01,740.0,785.67,0.6667,Medium
+Maharashtra,Palghar,2025-12-01,1396.75,1527.33,0.6667,Medium
+Himachal Pradesh,Lahul and Spiti,2025-12-01,138.25,130.0,0.6667,Medium
+Madhya Pradesh,Indore,2025-12-01,1154.0,1229.33,0.6667,Medium
+Gujarat,Gandhinagar,2025-12-01,1354.5,1449.0,0.6667,Medium
+Assam,Tinsukia,2025-12-01,970.5,1061.0,0.6667,Medium
+Bihar,Patna,2025-12-01,2529.0,2755.33,0.6667,Medium
+Uttar Pradesh,Gorakhpur,2025-12-01,1607.0,1679.67,0.6667,Medium
+Madhya Pradesh,Bhind,2025-12-01,773.0,832.0,0.6667,Medium
+Maharashtra,Beed,2025-12-01,1044.0,1124.33,0.6667,Medium
+Delhi,West Delhi,2025-12-01,415.0,458.0,0.6667,Medium
+Gujarat,Rajkot,2025-12-01,1784.5,1931.33,0.6667,Medium
+Uttar Pradesh,Bulandshahr,2025-12-01,1558.0,1684.67,0.6667,Medium
+Gujarat,Patan,2025-12-01,744.0,853.33,0.6667,Medium
+Delhi,Shahdara,2025-12-01,173.0,178.67,0.6667,Medium
+Uttar Pradesh,Ayodhya,2025-12-01,1054.75,1025.67,0.6667,Medium
+Madhya Pradesh,Alirajpur,2025-12-01,283.25,299.67,0.6667,Medium
+Gujarat,Anand,2025-12-01,2169.25,2201.67,0.6667,Medium
+Assam,Nalbari,2025-12-01,1088.75,1043.67,0.6667,Medium
+Assam,Sibsagar,2025-12-01,1044.75,998.67,0.6667,Medium
+Madhya Pradesh,Khargone,2025-12-01,703.0,771.67,0.6667,Medium
+Uttar Pradesh,Lucknow,2025-12-01,1909.0,2081.33,0.6667,Medium
+West Bengal,nadia,2025-12-01,6.5,6.5,0.6611,Medium
+Bihar,Aurangabad(BH),2025-12-01,11.0,9.67,0.6528,Medium
+Karnataka,Chamarajanagar,2025-12-01,256.75,256.33,0.6416,Medium
+Odisha,Jajpur,2025-12-01,61.75,58.33,0.6081,Medium
+Sikkim,Mangan,2025-12-01,16.0,14.67,0.6065,Medium
+Mizoram,Saitual,2025-12-01,30.25,25.0,0.6056,Medium
+Madhya Pradesh,Morena,2025-12-01,461.75,496.67,0.6,Medium
+Nagaland,Shamator,2025-12-01,37.75,34.0,0.5995,Medium
+Jammu and Kashmir,Punch,2025-12-01,174.0,177.33,0.5517,Medium
+Rajasthan,Deeg,2025-12-01,78.0,58.0,0.5,Medium
+Karnataka,Shimoga,2025-12-01,1711.25,1571.33,0.5,Medium
+Karnataka,Ramanagar,2025-12-01,729.5,697.67,0.5,Medium
+Rajasthan,Chittorgarh,2025-12-01,1241.0,1193.0,0.5,Medium
+Rajasthan,Churu,2025-12-01,1014.0,1007.0,0.5,Medium
+Rajasthan,Bundi,2025-12-01,697.25,671.33,0.5,Medium
+Karnataka,Mandya,2025-12-01,1714.25,1630.67,0.5,Medium
+Kerala,Pathanamthitta,2025-12-01,3652.0,3418.0,0.5,Medium
+Karnataka,Koppal,2025-12-01,1023.0,954.67,0.5,Medium
+Karnataka,Kolar,2025-12-01,1176.0,1106.67,0.5,Medium
+Karnataka,Kodagu,2025-12-01,929.75,876.33,0.5,Medium
+Rajasthan,Deeg ,2025-12-01,177.5,141.33,0.5,Medium
+Karnataka,Haveri *,2025-12-01,187.75,178.0,0.5,Medium
+Andhra Pradesh,Eluru,2025-12-01,1590.0,1458.67,0.5,Medium
+Kerala,Palakkad,2025-12-01,5212.5,4924.67,0.5,Medium
+Karnataka,yadgir,2025-12-01,448.5,424.67,0.5,Medium
+Karnataka,Shivamogga,2025-12-01,1692.75,1567.0,0.5,Medium
+Karnataka,Hassan,2025-12-01,1889.0,1781.33,0.5,Medium
+Kerala,Alappuzha,2025-12-01,4223.5,3985.67,0.5,Medium
+Karnataka,Vijayanagara,2025-12-01,842.0,803.67,0.5,Medium
+Karnataka,Uttara Kannada,2025-12-01,2485.5,2369.0,0.5,Medium
+Karnataka,Udupi,2025-12-01,2505.25,2364.67,0.5,Medium
+Rajasthan,Bhilwara,2025-12-01,1372.75,1327.67,0.5,Medium
+Kerala,Idukki,2025-12-01,1933.75,1837.67,0.5,Medium
+Rajasthan,Bharatpur,2025-12-01,1346.75,1303.33,0.5,Medium
+Kerala,Kasaragod,2025-12-01,1283.75,1226.67,0.5,Medium
+Karnataka,Tumkur,2025-12-01,2290.0,2158.67,0.5,Medium
+Rajasthan,Barmer,2025-12-01,1182.0,1117.0,0.5,Medium
+Kerala,Kottayam,2025-12-01,4385.0,4106.0,0.5,Medium
+Kerala,Kozhikode,2025-12-01,3834.0,3588.67,0.5,Medium
+Karnataka,Tumakuru,2025-12-01,2169.0,2060.0,0.5,Medium
+Rajasthan,Baran,2025-12-01,594.0,561.67,0.5,Medium
+Karnataka,Haveri,2025-12-01,1191.0,1125.33,0.5,Medium
+Karnataka,Chickmagalur,2025-12-01,1360.5,1291.33,0.5,Medium
+Karnataka,Hasan,2025-12-01,1490.0,1391.33,0.5,Medium
+Jharkhand,Hazaribagh,2025-12-01,1010.0,967.33,0.5,Medium
+West Bengal,Malda,2025-12-01,1566.75,1530.67,0.5,Medium
+Rajasthan,Karauli,2025-12-01,1003.5,978.33,0.5,Medium
+Jharkhand,Pashchimi Singhbhum,2025-12-01,218.5,198.67,0.5,Medium
+Rajasthan,Kota,2025-12-01,1262.0,1177.33,0.5,Medium
+Jharkhand,Pakur,2025-12-01,292.5,297.0,0.5,Medium
+Jharkhand,Pakaur,2025-12-01,117.25,94.33,0.5,Medium
+Rajasthan,Nagaur,2025-12-01,1833.0,1846.0,0.5,Medium
+Jharkhand,Latehar,2025-12-01,412.25,381.67,0.5,Medium
+Jharkhand,Koderma,2025-12-01,350.25,330.33,0.5,Medium
+Rajasthan,Pali,2025-12-01,1846.0,1731.67,0.5,Medium
+Jharkhand,Khunti,2025-12-01,351.0,346.33,0.5,Medium
+Jharkhand,Jamtara,2025-12-01,265.0,254.67,0.5,Medium
+Rajasthan,Sawai Madhopur,2025-12-01,1100.0,1030.33,0.5,Medium
+Karnataka,Gulbarga,2025-12-01,1631.5,1535.67,0.5,Medium
+Jharkhand,Godda,2025-12-01,504.0,488.33,0.5,Medium
+Jharkhand,Giridih,2025-12-01,855.0,807.67,0.5,Medium
+Jharkhand,Garhwa *,2025-12-01,123.0,117.67,0.5,Medium
+Jharkhand,East Singhbhum,2025-12-01,1139.0,1128.0,0.5,Medium
+Jharkhand,Dumka,2025-12-01,803.0,844.33,0.5,Medium
+Jharkhand,Dhanbad,2025-12-01,2060.0,1943.67,0.5,Medium
+Rajasthan,Tonk,2025-12-01,682.0,638.0,0.5,Medium
+Jharkhand,Chatra,2025-12-01,296.25,292.33,0.5,Medium
+Andhra Pradesh,K.v. Rangareddy,2025-12-01,114.5,109.33,0.5,Medium
+Jharkhand,Bokaro,2025-12-01,1564.0,1440.0,0.5,Medium
+Assam,Charaideo,2025-12-01,375.75,354.67,0.5,Medium
+Rajasthan,Udaipur,2025-12-01,1722.5,1640.0,0.5,Medium
+Jharkhand,Ranchi,2025-12-01,1269.0,1332.67,0.5,Medium
+Rajasthan,Jhunjhunu,2025-12-01,682.0,584.0,0.5,Medium
+Rajasthan,Jhalawar,2025-12-01,759.0,725.0,0.5,Medium
+Jharkhand,Seraikela-Kharsawan,2025-12-01,657.25,605.0,0.5,Medium
+Karnataka,Gadag,2025-12-01,918.75,872.67,0.5,Medium
+Karnataka,Dharwad,2025-12-01,1603.5,1484.67,0.5,Medium
+Karnataka,Davangere,2025-12-01,1652.5,1562.67,0.5,Medium
+Karnataka,Davanagere,2025-12-01,771.5,702.67,0.5,Medium
+Rajasthan,Dholpur,2025-12-01,535.25,530.33,0.5,Medium
+Karnataka,Chitradurga,2025-12-01,1531.75,1426.67,0.5,Medium
+Rajasthan,Dungarpur,2025-12-01,1077.0,1027.0,0.5,Medium
+Karnataka,Chikkamagaluru,2025-12-01,1103.25,1066.33,0.5,Medium
+Karnataka,Chikkaballapur,2025-12-01,837.5,794.33,0.5,Medium
+Kerala,Wayanad,2025-12-01,825.75,772.0,0.5,Medium
+Karnataka,Chamrajnagar,2025-12-01,428.0,408.33,0.5,Medium
+Karnataka,Chamrajanagar,2025-12-01,825.25,779.0,0.5,Medium
+Karnataka,Chamarajanagar *,2025-12-01,32.5,26.0,0.5,Medium
+Karnataka,Bijapur,2025-12-01,1788.75,1670.67,0.5,Medium
+Karnataka,Bidar,2025-12-01,1067.0,1037.33,0.5,Medium
+Rajasthan,Hanumangarh,2025-12-01,798.0,742.0,0.5,Medium
+Karnataka,Bellary,2025-12-01,1717.75,1597.0,0.5,Medium
+Karnataka,Belgaum,2025-12-01,4071.5,3830.33,0.5,Medium
+Karnataka,Belagavi,2025-12-01,3899.0,3594.33,0.5,Medium
+Karnataka,Bangalore Rural,2025-12-01,688.0,668.33,0.5,Medium
+Karnataka,Bangalore,2025-12-01,4278.75,3976.33,0.5,Medium
+Karnataka,Ballari,2025-12-01,1377.0,1290.67,0.5,Medium
+Karnataka,Bagalkot,2025-12-01,1570.5,1469.33,0.5,Medium
+Rajasthan,Jalor,2025-12-01,861.0,826.67,0.5,Medium
+Rajasthan,Jalore,2025-12-01,281.0,187.33,0.5,Medium
+Rajasthan,Ajmer,2025-12-01,2171.25,2111.33,0.5,Medium
+Madhya Pradesh,Damoh,2025-12-01,557.25,518.67,0.5,Medium
+Ladakh,Kargil,2025-12-01,225.5,217.33,0.5,Medium
+Andhra Pradesh,Ananthapuramu,2025-12-01,3310.0,3107.0,0.5,Medium
+Maharashtra,Thane,2025-12-01,3347.0,3731.67,0.5,Medium
+Maharashtra,Solapur,2025-12-01,2819.5,2946.33,0.5,Medium
+Odisha,Khorda,2025-12-01,2367.0,2204.67,0.5,Medium
+Odisha,Koraput,2025-12-01,1246.25,1175.0,0.5,Medium
+Odisha,NUAPADA,2025-12-01,59.0,54.67,0.5,Medium
+Maharashtra,Raigad,2025-12-01,1308.5,1282.33,0.5,Medium
+Odisha,Nayagarh,2025-12-01,1012.5,952.33,0.5,Medium
+Maharashtra,Osmanabad,2025-12-01,1129.0,1071.0,0.5,Medium
+Odisha,Nuapada,2025-12-01,305.5,288.67,0.5,Medium
+Odisha,Puri,2025-12-01,1366.75,1266.0,0.5,Medium
+Maharashtra,Nandurbar,2025-12-01,794.5,828.0,0.5,Medium
+Odisha,Rayagada,2025-12-01,744.75,695.67,0.5,Medium
+Ladakh,Leh,2025-12-01,199.5,190.33,0.5,Medium
+Odisha,Sambalpur,2025-12-01,1067.0,991.0,0.5,Medium
+Odisha,Sundargarh,2025-12-01,1304.0,1202.33,0.5,Medium
+Maharashtra,Mumbai,2025-12-01,3991.0,3894.67,0.5,Medium
+Odisha,jajpur,2025-12-01,49.0,41.0,0.5,Medium
+Maharashtra,Jalna,2025-12-01,1114.0,1052.0,0.5,Medium
+Maharashtra,Jalgaon,2025-12-01,2416.5,2532.33,0.5,Medium
+Andhra Pradesh,Annamayya,2025-12-01,1424.0,1304.67,0.5,Medium
+Maharashtra,Gondiya *,2025-12-01,325.25,296.67,0.5,Medium
+Maharashtra,Gondia,2025-12-01,196.0,197.67,0.5,Medium
+Orissa,Cuttack,2025-12-01,586.0,510.0,0.5,Medium
+Maharashtra,Dhule,2025-12-01,1049.0,1109.0,0.5,Medium
+Odisha,Jajapur,2025-12-01,1629.0,1535.67,0.5,Medium
+Odisha,JAJPUR,2025-12-01,1426.75,1338.67,0.5,Medium
+Manipur,Bishnupur,2025-12-01,146.0,145.33,0.5,Medium
+Odisha,Cuttack,2025-12-01,2554.75,2369.0,0.5,Medium
+Westbengal,Hooghly,2025-12-01,31.25,24.67,0.5,Medium
+Nagaland,Chumukedima,2025-12-01,98.0,101.67,0.5,Medium
+Nagaland,Peren,2025-12-01,94.5,101.0,0.5,Medium
+Nagaland,Tuensang,2025-12-01,159.0,156.67,0.5,Medium
+Nagaland,Wokha,2025-12-01,79.0,74.33,0.5,Medium
+Nagaland,Zunheboto,2025-12-01,143.0,135.67,0.5,Medium
+Odisha,ANUGUL,2025-12-01,30.25,25.33,0.5,Medium
+Andaman and Nicobar Islands,North And Middle Andaman,2025-12-01,186.0,178.67,0.5,Medium
+Meghalaya,South West Garo Hills,2025-12-01,107.75,114.67,0.5,Medium
+Meghalaya,South Garo Hills,2025-12-01,124.0,125.67,0.5,Medium
+Meghalaya,North Garo Hills,2025-12-01,152.5,147.67,0.5,Medium
+Odisha,Angul,2025-12-01,1083.75,1037.67,0.5,Medium
+Andhra Pradesh,Anakapalli,2025-12-01,1176.75,1082.33,0.5,Medium
+West Bengal,Uttar Dinajpur,2025-12-01,1017.25,1003.67,0.5,Medium
+Odisha,Anugul,2025-12-01,353.5,320.0,0.5,Medium
+Odisha,Balangir,2025-12-01,1195.0,1135.33,0.5,Medium
+Odisha,Baleshwar,2025-12-01,1698.0,1628.0,0.5,Medium
+Odisha,Baleswar,2025-12-01,2091.25,1982.33,0.5,Medium
+Odisha,Bargarh,2025-12-01,1081.25,1023.0,0.5,Medium
+Odisha,Bhadrak,2025-12-01,1634.75,1527.0,0.5,Medium
+Manipur,Imphal West,2025-12-01,553.0,540.33,0.5,Medium
+Odisha,Boudh,2025-12-01,486.5,461.33,0.5,Medium
+Manipur,Churachandpur,2025-12-01,337.5,345.0,0.5,Medium
+Maharashtra,Dharashiv,2025-12-01,425.25,393.67,0.5,Medium
+Maharashtra,Chhatrapati Sambhajinagar,2025-12-01,1015.5,907.0,0.5,Medium
+Maharashtra,Chatrapati Sambhaji Nagar,2025-12-01,63.0,62.0,0.5,Medium
+Madhya Pradesh,Neemuch,2025-12-01,598.0,555.33,0.5,Medium
+Madhya Pradesh,Narsimhapur,2025-12-01,502.75,477.33,0.5,Medium
+Madhya Pradesh,Narmadapuram,2025-12-01,408.75,387.0,0.5,Medium
+Madhya Pradesh,Mauganj,2025-12-01,272.25,254.67,0.5,Medium
+Madhya Pradesh,Mandsaur,2025-12-01,779.25,747.0,0.5,Medium
+Madhya Pradesh,Mandla,2025-12-01,668.5,633.0,0.5,Medium
+Madhya Pradesh,Maihar,2025-12-01,270.0,251.33,0.5,Medium
+Pondicherry,Yanam,2025-12-01,37.75,31.33,0.5,Medium
+Madhya Pradesh,Jhabua,2025-12-01,366.25,385.33,0.5,Medium
+Madhya Pradesh,Jabalpur,2025-12-01,988.0,1021.0,0.5,Medium
+Madhya Pradesh,Harda *,2025-12-01,218.75,193.33,0.5,Medium
+Punjab,Bathinda,2025-12-01,834.0,783.33,0.5,Medium
+Madhya Pradesh,Dindori,2025-12-01,368.5,344.0,0.5,Medium
+West Bengal,North 24 Parganas,2025-12-01,6016.5,5848.0,0.5,Medium
+Jammu and Kashmir,Reasi,2025-12-01,331.75,317.0,0.5,Medium
+Punjab,Moga,2025-12-01,925.25,867.33,0.5,Medium
+Madhya Pradesh,Betul,2025-12-01,829.0,848.33,0.5,Medium
+Punjab,Patiala,2025-12-01,851.75,822.67,0.5,Medium
+Punjab,SAS Nagar (Mohali),2025-12-01,1046.0,995.0,0.5,Medium
+Punjab,Sangrur,2025-12-01,797.0,729.33,0.5,Medium
+Madhya Pradesh,Ashok Nagar,2025-12-01,290.5,308.0,0.5,Medium
+Madhya Pradesh,Anuppur,2025-12-01,566.25,534.67,0.5,Medium
+Madhya Pradesh,Agar Malwa,2025-12-01,266.25,247.67,0.5,Medium
+Punjab,Tarn Taran,2025-12-01,1060.0,1033.0,0.5,Medium
+Orissa,Sundargarh,2025-12-01,272.75,250.0,0.5,Medium
+Madhya Pradesh,Niwari,2025-12-01,221.5,198.0,0.5,Medium
+Orissa,Jajapur,2025-12-01,166.5,155.33,0.5,Medium
+Madhya Pradesh,Pandhurna,2025-12-01,171.5,151.0,0.5,Medium
+Orissa,Kendrapara,2025-12-01,93.0,89.67,0.5,Medium
+Maharashtra,Aurangabad,2025-12-01,1622.5,1726.33,0.5,Medium
+Andaman & Nicobar Islands,Andamans,2025-12-01,182.0,170.0,0.5,Medium
+Maharashtra,Akola,2025-12-01,1266.0,1214.33,0.5,Medium
+Orissa,Khordha,2025-12-01,1116.25,1027.0,0.5,Medium
+Madhya Pradesh,West Nimar,2025-12-01,471.0,439.33,0.5,Medium
+Madhya Pradesh,Vidisha,2025-12-01,478.5,505.33,0.5,Medium
+Madhya Pradesh,Umaria,2025-12-01,321.5,303.67,0.5,Medium
+Madhya Pradesh,Ujjain,2025-12-01,1001.75,945.0,0.5,Medium
+Madhya Pradesh,Tikamgarh,2025-12-01,777.0,720.0,0.5,Medium
+Madhya Pradesh,Singrauli,2025-12-01,497.5,483.33,0.5,Medium
+Madhya Pradesh,Sidhi,2025-12-01,425.25,405.67,0.5,Medium
+Madhya Pradesh,Shivpuri,2025-12-01,704.0,745.33,0.5,Medium
+Andhra Pradesh,Bapatla,2025-12-01,1366.25,1226.67,0.5,Medium
+Madhya Pradesh,Shajapur,2025-12-01,914.75,854.0,0.5,Medium
+Madhya Pradesh,Shahdol,2025-12-01,663.75,630.67,0.5,Medium
+Madhya Pradesh,Seoni,2025-12-01,717.5,677.33,0.5,Medium
+Orissa,Puri,2025-12-01,484.75,443.0,0.5,Medium
+Madhya Pradesh,Sagar,2025-12-01,1031.5,1085.33,0.5,Medium
+Madhya Pradesh,Rewa,2025-12-01,1316.5,1246.0,0.5,Medium
+Madhya Pradesh,Ratlam,2025-12-01,602.5,572.0,0.5,Medium
+Madhya Pradesh,Rajgarh,2025-12-01,649.0,611.0,0.5,Medium
+Orissa,Rayagada,2025-12-01,140.0,122.0,0.5,Medium
+Jammu and Kashmir,Samba,2025-12-01,353.0,326.33,0.5,Medium
+Jammu and Kashmir,Udhampur,2025-12-01,722.5,690.0,0.5,Medium
+Jammu and Kashmir,Ramban,2025-12-01,218.5,207.0,0.5,Medium
+Chhattisgarh,Manendragarh–Chirmiri–Bharatpur,2025-12-01,228.0,198.33,0.5,Medium
+Chhattisgarh,Korba,2025-12-01,828.75,761.0,0.5,Medium
+Chhattisgarh,Khairagarh Chhuikhadan Gandai,2025-12-01,145.75,130.33,0.5,Medium
+Uttar Pradesh,Hapur,2025-12-01,419.5,401.67,0.5,Medium
+Uttar Pradesh,Hardoi,2025-12-01,994.0,969.0,0.5,Medium
+Uttar Pradesh,Hathras,2025-12-01,718.25,700.67,0.5,Medium
+Chhattisgarh,Janjgir Champa,2025-12-01,103.75,92.67,0.5,Medium
+Chhattisgarh,Janjgir - Champa,2025-12-01,58.5,53.33,0.5,Medium
+Uttar Pradesh,Jalaun,2025-12-01,804.0,787.67,0.5,Medium
+Chhattisgarh,Gaurela-pendra-marwahi,2025-12-01,117.75,109.67,0.5,Medium
+Chhattisgarh,Gariyaband,2025-12-01,814.0,732.67,0.5,Medium
+Chhattisgarh,Durg,2025-12-01,1123.75,1103.0,0.5,Medium
+Chhattisgarh,Dhamtari,2025-12-01,587.0,535.33,0.5,Medium
+Uttar Pradesh,Jaunpur,2025-12-01,2042.0,2037.0,0.5,Medium
+Chhattisgarh,Bilaspur,2025-12-01,1093.0,1026.33,0.5,Medium
+Uttarakhand,Pithoragarh,2025-12-01,1022.0,917.33,0.5,Medium
+Uttar Pradesh,Jhansi,2025-12-01,976.0,934.0,0.5,Medium
+Chhattisgarh,Bastar,2025-12-01,523.5,478.67,0.5,Medium
+Chhattisgarh,Balrampur,2025-12-01,336.0,313.67,0.5,Medium
+Chhattisgarh,Baloda Bazar,2025-12-01,823.0,791.0,0.5,Medium
+Uttar Pradesh,Jyotiba Phule Nagar,2025-12-01,113.75,99.67,0.5,Medium
+Uttar Pradesh,Kannauj,2025-12-01,722.0,700.33,0.5,Medium
+Chandigarh,Chandigarh,2025-12-01,957.0,893.67,0.5,Medium
+Bihar,West Champaran,2025-12-01,809.25,812.67,0.5,Medium
+Chhattisgarh,Koriya,2025-12-01,624.75,576.67,0.5,Medium
+Chhattisgarh,Mohalla-Manpur-Ambagarh Chowki,2025-12-01,58.5,43.67,0.5,Medium
+Uttar Pradesh,Kanpur Dehat,2025-12-01,847.25,824.67,0.5,Medium
+Chhattisgarh,Mohla-Manpur-Ambagarh Chouki,2025-12-01,168.75,149.67,0.5,Medium
+Uttar Pradesh,Etah,2025-12-01,639.0,641.67,0.5,Medium
+West Bengal,Alipurduar,2025-12-01,714.0,732.33,0.5,Medium
+Uttarakhand,Uttarkashi,2025-12-01,478.25,437.0,0.5,Medium
+Uttar Pradesh,Etawah,2025-12-01,665.25,649.33,0.5,Medium
+Uttar Pradesh,Farrukhabad,2025-12-01,992.0,930.0,0.5,Medium
+Delhi,North Delhi,2025-12-01,173.0,175.0,0.5,Medium
+Uttarakhand,Udham Singh Nagar,2025-12-01,690.5,644.67,0.5,Medium
+Delhi,Najafgarh,2025-12-01,41.5,37.33,0.5,Medium
+Daman and Diu,Diu,2025-12-01,107.5,96.33,0.5,Medium
+Uttar Pradesh,Firozabad,2025-12-01,927.5,936.33,0.5,Medium
+Daman & Diu,Daman,2025-12-01,71.25,62.0,0.5,Medium
+Dadra and Nagar Haveli and Daman and Diu,Daman,2025-12-01,69.25,58.0,0.5,Medium
+Dadra and Nagar Haveli and Daman and Diu,Dadra and Nagar Haveli,2025-12-01,101.0,92.33,0.5,Medium
+Dadra & Nagar Haveli,Dadra & Nagar Haveli,2025-12-01,54.75,49.0,0.5,Medium
+Jammu and Kashmir,Rajouri,2025-12-01,589.75,551.33,0.5,Medium
+Chhattisgarh,Surajpur,2025-12-01,469.75,427.67,0.5,Medium
+Chhattisgarh,Sukma,2025-12-01,168.5,173.0,0.5,Medium
+Chhattisgarh,Sarangarh-Bilaigarh,2025-12-01,276.25,251.33,0.5,Medium
+Uttarakhand,Rudraprayag,2025-12-01,518.75,479.0,0.5,Medium
+Uttar Pradesh,Gonda,2025-12-01,1385.25,1363.33,0.5,Medium
+Chhattisgarh,Raigarh,2025-12-01,761.0,719.67,0.5,Medium
+Chhattisgarh,Narayanpur,2025-12-01,51.5,46.0,0.5,Medium
+Chhattisgarh,Mungeli,2025-12-01,320.25,289.67,0.5,Medium
+Bihar,Vaishali,2025-12-01,1615.0,1550.0,0.5,Medium
+Bihar,Siwan,2025-12-01,1809.5,1840.33,0.5,Medium
+Goa,North Goa,2025-12-01,1745.0,1596.0,0.5,Medium
+Bihar,Bhojpur,2025-12-01,1832.0,1729.33,0.5,Medium
+Bihar,Banka,2025-12-01,1162.75,1108.67,0.5,Medium
+Uttar Pradesh,Mau,2025-12-01,996.0,941.67,0.5,Medium
+Bihar,Arwal,2025-12-01,493.25,456.0,0.5,Medium
+Uttarakhand,Chamoli,2025-12-01,997.0,902.0,0.5,Medium
+Assam,Udalguri,2025-12-01,854.5,874.0,0.5,Medium
+Uttar Pradesh,Muzaffarnagar,2025-12-01,1038.0,1018.0,0.5,Medium
+Assam,Sribhumi,2025-12-01,575.5,508.0,0.5,Medium
+Assam,South Salmara Mankachar,2025-12-01,197.0,178.67,0.5,Medium
+Uttarakhand,Bageshwar,2025-12-01,564.25,509.0,0.5,Medium
+Assam,North Cachar Hills,2025-12-01,231.0,218.33,0.5,Medium
+Arunachal Pradesh,Lohit,2025-12-01,142.0,122.67,0.5,Medium
+Uttarakhand,Almora,2025-12-01,1308.25,1180.67,0.5,Medium
+Assam,Majuli,2025-12-01,188.0,183.67,0.5,Medium
+Uttar Pradesh,Siddharthnagar,2025-12-01,839.25,827.0,0.5,Medium
+Assam,Karbi Anglong,2025-12-01,792.5,777.0,0.5,Medium
+Uttar Pradesh,Shamli,2025-12-01,465.0,445.0,0.5,Medium
+Uttar Pradesh,Sant Ravidas Nagar Bhadohi,2025-12-01,79.25,70.67,0.5,Medium
+Assam,Hailakandi,2025-12-01,602.25,588.0,0.5,Medium
+Uttar Pradesh,Sambhal,2025-12-01,848.0,814.0,0.5,Medium
+Arunachal Pradesh,West Kameng,2025-12-01,243.0,232.33,0.5,Medium
+Assam,Bajali,2025-12-01,134.75,112.67,0.5,Medium
+Assam,Baksa,2025-12-01,644.0,739.0,0.5,Medium
+Assam,Cachar,2025-12-01,2064.5,2053.0,0.5,Medium
+Bihar,Begusarai,2025-12-01,1462.0,1348.33,0.5,Medium
+Uttar Pradesh,Mainpuri,2025-12-01,798.0,808.0,0.5,Medium
+Uttarakhand,Pauri Garhwal,2025-12-01,1688.0,1536.67,0.5,Medium
+Bihar,Darbhanga,2025-12-01,1921.0,1770.0,0.5,Medium
+Uttar Pradesh,Kasganj,2025-12-01,571.0,534.33,0.5,Medium
+Bihar,Saran,2025-12-01,2135.5,2188.0,0.5,Medium
+Uttar Pradesh,Kaushambi,2025-12-01,619.5,590.0,0.5,Medium
+Bihar,Samastipur,2025-12-01,1830.0,1723.33,0.5,Medium
+Bihar,Saharsa,2025-12-01,775.5,780.33,0.5,Medium
+Bihar,Purnia,2025-12-01,1121.0,1152.0,0.5,Medium
+Uttar Pradesh,Kushinagar,2025-12-01,872.0,828.33,0.5,Medium
+Uttar Pradesh,Lalitpur,2025-12-01,486.0,459.67,0.5,Medium
+Bihar,Purba Champaran,2025-12-01,223.25,203.67,0.5,Medium
+Bihar,Nawada,2025-12-01,1099.0,1012.67,0.5,Medium
+Bihar,Nalanda,2025-12-01,1315.75,1283.33,0.5,Medium
+Bihar,Munger,2025-12-01,479.5,472.33,0.5,Medium
+Bihar,Monghyr,2025-12-01,69.75,59.33,0.5,Medium
+Uttarakhand,Hardwar,2025-12-01,310.75,286.0,0.5,Medium
+Bihar,Lakhisarai,2025-12-01,425.75,421.67,0.5,Medium
+Uttar Pradesh,Mahoba,2025-12-01,444.25,405.0,0.5,Medium
+Uttar Pradesh,Mahrajganj,2025-12-01,18.0,16.67,0.5,Medium
+Bihar,Katihar,2025-12-01,995.25,968.67,0.5,Medium
+Uttarakhand,Garhwal,2025-12-01,90.5,86.0,0.5,Medium
+Bihar,Jehanabad,2025-12-01,875.0,847.67,0.5,Medium
+Bihar,Jamui,2025-12-01,553.0,546.0,0.5,Medium
+Bihar,Gopalganj,2025-12-01,940.5,954.33,0.5,Medium
+Bihar,East Champaran,2025-12-01,1753.25,1692.33,0.5,Medium
+Uttar Pradesh,Deoria,2025-12-01,1180.25,1167.67,0.5,Medium
+Nagaland,Kohima,2025-12-01,279.5,266.0,0.5,Medium
+West Bengal,Cooch Behar,2025-12-01,1580.75,1577.67,0.5,Medium
+Jammu and Kashmir,Kargil,2025-12-01,253.5,236.0,0.5,Medium
+Tamil Nadu,Vellore,2025-12-01,4775.0,4275.67,0.5,Medium
+Haryana,Mewat,2025-12-01,277.0,269.0,0.5,Medium
+Telangana,Bhadradri Kothagudem,2025-12-01,943.0,855.33,0.5,Medium
+Haryana,Kurukshetra,2025-12-01,529.0,502.0,0.5,Medium
+Jammu and Kashmir,Doda,2025-12-01,573.25,540.33,0.5,Medium
+Haryana,Kaithal,2025-12-01,481.0,462.0,0.5,Medium
+Haryana,Jhajjar,2025-12-01,841.25,766.33,0.5,Medium
+Haryana,Hisar,2025-12-01,784.0,748.33,0.5,Medium
+Telangana,K.v. Rangareddy,2025-12-01,3932.0,3642.0,0.5,Medium
+Jammu and Kashmir,Ganderbal,2025-12-01,222.0,207.0,0.5,Medium
+Haryana,Gurgaon,2025-12-01,1131.5,1117.33,0.5,Medium
+Haryana,Charkhi Dadri,2025-12-01,467.5,436.0,0.5,Medium
+Haryana,Bhiwani,2025-12-01,1158.5,1074.33,0.5,Medium
+Haryana,Ambala,2025-12-01,836.0,776.67,0.5,Medium
+Gujarat,Valsad,2025-12-01,1279.5,1302.0,0.5,Medium
+Tamil Nadu,Chennai,2025-12-01,3406.0,3116.0,0.5,Medium
+Gujarat,The Dangs,2025-12-01,184.0,195.0,0.5,Medium
+Haryana,Panipat,2025-12-01,514.25,522.67,0.5,Medium
+Haryana,Rewari,2025-12-01,691.0,639.33,0.5,Medium
+Jammu and Kashmir,Budgam,2025-12-01,321.5,299.67,0.5,Medium
+Tamil Nadu,Kancheepuram,2025-12-01,4158.0,3833.67,0.5,Medium
+West Bengal,Jhargram,2025-12-01,730.0,652.67,0.5,Medium
+Himachal Pradesh,Una,2025-12-01,1197.5,1120.67,0.5,Medium
+Himachal Pradesh,Solan,2025-12-01,935.75,881.67,0.5,Medium
+Andhra Pradesh,Karimnagar,2025-12-01,1795.5,1697.67,0.5,Medium
+Tamil Nadu,Pudukkottai,2025-12-01,2469.0,2280.33,0.5,Medium
+Tamil Nadu,Ramanathapuram,2025-12-01,2382.0,2244.0,0.5,Medium
+Himachal Pradesh,Mandi,2025-12-01,2193.75,2027.67,0.5,Medium
+West Bengal,Howrah,2025-12-01,2352.0,2184.67,0.5,Medium
+Jammu and Kashmir,Badgam,2025-12-01,356.75,326.33,0.5,Medium
+Tamil Nadu,Salem,2025-12-01,3764.0,3532.0,0.5,Medium
+Tamil Nadu,Sivaganga,2025-12-01,2853.0,2614.67,0.5,Medium
+Himachal Pradesh,Bilaspur,2025-12-01,948.25,871.33,0.5,Medium
+Tamil Nadu,Kallakurichi,2025-12-01,958.0,873.67,0.5,Medium
+Jammu and Kashmir,Anantnag,2025-12-01,669.75,627.67,0.5,Medium
+Haryana,Sonipat,2025-12-01,904.0,883.0,0.5,Medium
+Tamil Nadu,Thiruvallur,2025-12-01,590.0,520.33,0.5,Medium
+Telangana,Medchal-malkajgiri,2025-12-01,1138.0,1051.0,0.5,Medium
+Tamil Nadu,Madurai,2025-12-01,2342.25,2295.0,0.5,Medium
+Tamil Nadu,Chengalpattu,2025-12-01,1312.0,1189.0,0.5,Medium
+Uttar Pradesh,Ambedkar Nagar,2025-12-01,1368.0,1251.67,0.5,Medium
+Uttar Pradesh,Barabanki,2025-12-01,491.0,465.33,0.5,Medium
+West Bengal,Darjiling,2025-12-01,433.5,383.0,0.5,Medium
+Uttar Pradesh,Baghpat,2025-12-01,686.5,689.0,0.5,Medium
+Tripura,Dhalai,2025-12-01,446.0,427.0,0.5,Medium
+Sikkim,Namchi,2025-12-01,53.75,44.67,0.5,Medium
+Uttar Pradesh,Basti,2025-12-01,1177.0,1127.33,0.5,Medium
+Uttar Pradesh,Azamgarh,2025-12-01,1987.5,1987.0,0.5,Medium
+Sikkim,West Sikkim,2025-12-01,114.75,102.67,0.5,Medium
+Gujarat,Kachchh,2025-12-01,1711.0,1985.67,0.5,Medium
+Uttar Pradesh,Amroha,2025-12-01,561.25,549.67,0.5,Medium
+Gujarat,Banaskantha,2025-12-01,1161.0,1136.33,0.5,Medium
+Sikkim,South Sikkim,2025-12-01,155.75,137.67,0.5,Medium
+Uttar Pradesh,Balrampur,2025-12-01,571.5,584.33,0.5,Medium
+Gujarat,Banas Kantha,2025-12-01,111.0,112.67,0.5,Medium
+Tripura,Gomati,2025-12-01,351.0,321.67,0.5,Medium
+Uttar Pradesh,Bulandshahar,2025-12-01,141.5,127.0,0.5,Medium
+Gujarat,Narmada,2025-12-01,527.25,479.33,0.5,Medium
+Uttar Pradesh,Bara Banki,2025-12-01,1638.0,1526.0,0.5,Medium
+Tripura,West Tripura,2025-12-01,1350.0,1260.67,0.5,Medium
+Tripura,Unakoti,2025-12-01,336.0,315.0,0.5,Medium
+Tripura,Sepahijala,2025-12-01,291.0,269.0,0.5,Medium
+Uttar Pradesh,Bijnor,2025-12-01,1230.0,1184.33,0.5,Medium
+Tripura,Dhalai  *,2025-12-01,60.75,56.33,0.5,Medium
+Tripura,North Tripura,2025-12-01,789.0,731.33,0.5,Medium
+Orissa,Jharsuguda,2025-12-01,44.0,36.67,0.4961,Medium
+Daman & Diu,Diu,2025-12-01,85.75,72.67,0.4719,Medium
+Nagaland,Phek,2025-12-01,160.0,156.67,0.47,Medium
+Nagaland,Longleng,2025-12-01,73.25,74.33,0.4632,Medium
+Mizoram,Lunglei,2025-12-01,220.25,218.0,0.4538,Medium
+Chhattisgarh,Kabeerdham,2025-12-01,162.0,153.33,0.4517,Medium
+Jammu & Kashmir,Udhampur,2025-12-01,3.5,3.5,0.4283,Medium
+Karnataka,Gadag *,2025-12-01,190.25,173.67,0.4256,Medium
+Tamil Nadu,Ranipet,2025-12-01,335.75,277.67,0.42,Medium
+Tamil Nadu,Mayiladuthurai,2025-12-01,976.25,821.33,0.4182,Medium
+Jammu & Kashmir,Kupwara,2025-12-01,2.0,1.33,0.4,Medium
+Jammu & Kashmir,Leh (ladakh),2025-12-01,4.0,4.0,0.4,Medium
+Karnataka,Bengaluru Rural,2025-12-01,11.25,7.67,0.4,Medium
+West Bengal,South 24 Pargana,2025-12-01,0.5,0.5,0.4,Medium
+Maharashtra,Pune,2025-12-01,5555.5,5922.0,0.4,Medium
+Telangana,Medchal?malkajgiri,2025-12-01,2.0,2.0,0.4,Medium
+Orissa,Baudh,2025-12-01,3.5,2.67,0.4,Medium
+Orissa,Debagarh,2025-12-01,4.0,3.33,0.4,Medium
+Gujarat,Vadodara,2025-12-01,2592.0,2933.67,0.4,Medium
+Orissa,Nuapada,2025-12-01,0.5,0.5,0.4,Medium
+Mizoram,Kolasib,2025-12-01,184.0,183.67,0.4,Medium
+Karnataka,Bijapur(KAR),2025-12-01,5.5,5.5,0.4,Medium
+Arunachal Pradesh,Leparada,2025-12-01,15.5,12.67,0.4,Medium
+Mizoram,Saiha,2025-12-01,79.5,78.0,0.4,Medium
+Meghalaya,East Garo Hills,2025-12-01,116.0,111.0,0.4,Medium
+West Bengal,Hugli,2025-12-01,378.0,314.33,0.3865,Medium
+Arunachal Pradesh,Kamle,2025-12-01,28.5,18.0,0.3857,Medium
+West Bengal,Hawrah,2025-12-01,7.5,7.5,0.3771,Medium
+Arunachal Pradesh,Shi-yomi,2025-12-01,45.75,36.67,0.3766,Medium
+Jharkhand,Palamau,2025-12-01,150.25,129.67,0.3765,Medium
+Jharkhand,Seraikela-kharsawan,2025-12-01,505.5,450.33,0.3763,Medium
+Andaman and Nicobar Islands,South Andaman,2025-12-01,408.0,370.0,0.3726,Medium
+Tamil Nadu,The Nilgiris,2025-12-01,1815.5,1628.33,0.37,Medium
+Andhra Pradesh,Sri Sathya Sai,2025-12-01,1619.0,1445.67,0.3687,Medium
+Andhra Pradesh,Y. S. R,2025-12-01,1465.5,1290.0,0.3659,Medium
+West Bengal,Paschim Bardhaman,2025-12-01,1855.0,1639.33,0.3656,Medium
+Maharashtra,Mumbai( Sub Urban ),2025-12-01,1083.0,936.0,0.3649,Medium
+Nagaland,Tseminyu,2025-12-01,24.5,24.33,0.3627,Medium
+Andhra Pradesh,Palnadu,2025-12-01,1357.0,1191.0,0.3616,Medium
+Puducherry,Karaikal,2025-12-01,342.25,308.67,0.3606,Medium
+Madhya Pradesh,Chhindwara,2025-12-01,1142.5,1039.67,0.3579,Medium
+Maharashtra,Washim *,2025-12-01,214.25,194.33,0.3558,Medium
+Chhattisgarh,Surguja,2025-12-01,545.5,489.33,0.3532,Medium
+Jammu and Kashmir,Pulwama,2025-12-01,509.5,454.67,0.3527,Medium
+Bihar,Sheikpura,2025-12-01,51.5,39.67,0.3526,Medium
+West Bengal,Medinipur,2025-12-01,72.0,56.0,0.3517,Medium
+Jammu and Kashmir,Kishtwar,2025-12-01,140.25,129.33,0.351,Medium
+Tamil Nadu,Tenkasi,2025-12-01,1442.0,1280.33,0.3495,Medium
+Uttarakhand,Champawat,2025-12-01,386.25,349.67,0.349,Medium
+Puducherry,Yanam,2025-12-01,23.0,20.67,0.3489,Medium
+Andhra Pradesh,Tirupati,2025-12-01,1760.5,1506.67,0.348,Medium
+Orissa,Ganjam,2025-12-01,830.75,744.67,0.3472,Medium
+Chhattisgarh,Dantewada,2025-12-01,241.25,215.0,0.346,Medium
+Andhra Pradesh,Nandyal,2025-12-01,1436.25,1282.0,0.3445,Medium
+Himachal Pradesh,Lahul & Spiti,2025-12-01,138.0,123.33,0.3443,Medium
+Andhra Pradesh,Adilabad,2025-12-01,1892.25,1741.0,0.3441,Medium
+Haryana,Fatehabad,2025-12-01,504.75,468.33,0.3429,Medium
+Jammu and Kashmir,Bandipore,2025-12-01,222.0,204.0,0.3426,Medium
+Tamil Nadu,Thiruvarur,2025-12-01,3071.5,2728.33,0.3411,Medium
+Chhattisgarh,Kondagaon,2025-12-01,338.25,303.0,0.3395,Medium
+Uttarakhand,Tehri Garhwal,2025-12-01,1046.5,945.33,0.3392,Medium
+Chhattisgarh,Uttar Bastar Kanker,2025-12-01,638.5,562.33,0.3385,Medium
+Chhattisgarh,Kanker,2025-12-01,647.25,582.0,0.3378,Medium
+Dadra and Nagar Haveli,Dadra and Nagar Haveli,2025-12-01,177.75,161.33,0.3377,Medium
+Rajasthan,Ganganagar,2025-12-01,1252.25,1126.67,0.3373,Medium
+Chhattisgarh,Sakti,2025-12-01,319.75,278.33,0.337,Medium
+Kerala,Kasargod,2025-12-01,539.0,492.33,0.337,Medium
+Haryana,Jind,2025-12-01,503.75,466.33,0.3362,Medium
+Uttar Pradesh,Sant Ravidas Nagar,2025-12-01,648.5,591.67,0.3356,Medium
+Tamil Nadu,Thanjavur,2025-12-01,4191.0,3908.0,0.3333,Medium
+West Bengal,Dakshin Dinajpur,2025-12-01,944.0,935.0,0.3333,Medium
+Uttar Pradesh,Mathura,2025-12-01,1118.0,1150.67,0.3333,Medium
+Uttar Pradesh,Prayagraj,2025-12-01,1339.5,1342.33,0.3333,Medium
+Odisha,Nabarangapur,2025-12-01,612.0,600.33,0.3333,Medium
+Uttarakhand,Haridwar,2025-12-01,806.0,803.0,0.3333,Medium
+Rajasthan,Jaisalmer,2025-12-01,512.0,492.67,0.3333,Medium
+Uttarakhand,Nainital,2025-12-01,813.75,823.33,0.3333,Medium
+West Bengal,Kalimpong,2025-12-01,249.75,233.0,0.3333,Medium
+West Bengal,Purba Bardhaman,2025-12-01,1848.0,1726.67,0.3333,Medium
+Tamil Nadu,Coimbatore,2025-12-01,4482.0,4106.0,0.3333,Medium
+Tamil Nadu,Cuddalore,2025-12-01,2875.0,2658.33,0.3333,Medium
+Rajasthan,Jaipur,2025-12-01,3144.5,3173.67,0.3333,Medium
+Rajasthan,Sikar,2025-12-01,2159.0,2200.67,0.3333,Medium
+Odisha,Khordha,2025-12-01,1083.0,1068.67,0.3333,Medium
+West Bengal,Hooghly,2025-12-01,4112.0,3879.0,0.3333,Medium
+West Bengal,Birbhum,2025-12-01,1820.0,1886.67,0.3333,Medium
+Uttar Pradesh,Shrawasti,2025-12-01,553.75,559.0,0.3333,Medium
+Maharashtra,Amravati,2025-12-01,1699.25,1762.0,0.3333,Medium
+Maharashtra,Latur,2025-12-01,985.5,1045.67,0.3333,Medium
+Maharashtra,Nagpur,2025-12-01,2624.0,2739.67,0.3333,Medium
+Gujarat,Dohad,2025-12-01,435.5,426.33,0.3333,Medium
+Gujarat,Gir Somnath,2025-12-01,580.5,611.0,0.3333,Medium
+Gujarat,Jamnagar,2025-12-01,1668.0,1711.0,0.3333,Medium
+Gujarat,Junagadh,2025-12-01,1942.0,1868.67,0.3333,Medium
+Chhattisgarh,Raipur,2025-12-01,1413.25,1409.0,0.3333,Medium
+Karnataka,Yadgir,2025-12-01,892.0,898.0,0.3333,Medium
+Karnataka,Vijayapura,2025-12-01,1640.0,1647.0,0.3333,Medium
+Karnataka,Raichur,2025-12-01,1219.0,1223.67,0.3333,Medium
+Gujarat,Kheda,2025-12-01,1907.0,1960.67,0.3333,Medium
+Karnataka,Kalaburagi,2025-12-01,1472.0,1462.33,0.3333,Medium
+Gujarat,Mahesana,2025-12-01,1672.5,1710.33,0.3333,Medium
+Maharashtra,Buldhana,2025-12-01,1268.25,1320.67,0.3333,Medium
+Assam,Chirang,2025-12-01,463.5,499.0,0.3333,Medium
+Gujarat,Mahisagar,2025-12-01,550.0,575.0,0.3333,Medium
+Maharashtra,Chandrapur,2025-12-01,1259.5,1368.33,0.3333,Medium
+Gujarat,Navsari,2025-12-01,1296.5,1333.67,0.3333,Medium
+Karnataka,Bengaluru South,2025-12-01,367.0,339.67,0.3333,Medium
+Karnataka,Bengaluru,2025-12-01,4417.25,4508.67,0.3333,Medium
+Jharkhand,West Singhbhum,2025-12-01,738.0,743.0,0.3333,Medium
+Gujarat,Panch Mahals,2025-12-01,118.0,116.0,0.3333,Medium
+Madhya Pradesh,Bhopal,2025-12-01,1219.5,1261.0,0.3333,Medium
+Madhya Pradesh,Sehore,2025-12-01,737.0,750.0,0.3333,Medium
+Madhya Pradesh,Satna,2025-12-01,1027.0,1081.0,0.3333,Medium
+Madhya Pradesh,Raisen,2025-12-01,716.0,722.0,0.3333,Medium
+Madhya Pradesh,Balaghat,2025-12-01,828.0,844.0,0.3333,Medium
+Madhya Pradesh,Burhanpur,2025-12-01,169.5,201.33,0.3333,Medium
+Madhya Pradesh,Datia,2025-12-01,366.0,379.33,0.3333,Medium
+Gujarat,Arvalli,2025-12-01,696.0,688.67,0.3333,Medium
+Madhya Pradesh,Dewas,2025-12-01,547.0,584.33,0.3333,Medium
+Madhya Pradesh,Dhar,2025-12-01,708.5,758.67,0.3333,Medium
+Gujarat,Amreli,2025-12-01,1351.25,1315.67,0.3333,Medium
+Madhya Pradesh,Barwani,2025-12-01,342.25,373.33,0.3333,Medium
+Gujarat,Bhavnagar,2025-12-01,1692.0,1697.0,0.3333,Medium
+Gujarat,Botad,2025-12-01,431.5,427.67,0.3333,Medium
+Madhya Pradesh,East Nimar,2025-12-01,629.0,618.67,0.3333,Medium
+Delhi,New Delhi,2025-12-01,126.5,129.33,0.3333,Medium
+Madhya Pradesh,Guna,2025-12-01,625.75,633.0,0.3333,Medium
+Gujarat,Dahod,2025-12-01,609.0,610.33,0.3333,Medium
+Gujarat,Ahmadabad,2025-12-01,1360.5,1283.67,0.3333,Medium
+Madhya Pradesh,Hoshangabad,2025-12-01,547.0,570.67,0.3333,Medium
+Assam,Biswanath,2025-12-01,581.0,556.67,0.3333,Medium
+Delhi,North East Delhi,2025-12-01,186.5,190.33,0.3333,Medium
+Madhya Pradesh,Narsinghpur,2025-12-01,661.0,675.0,0.3333,Medium
+Madhya Pradesh,Panna,2025-12-01,453.0,461.67,0.3333,Medium
+Gujarat,Devbhumi Dwarka,2025-12-01,511.0,533.33,0.3333,Medium
+Maharashtra,Mumbai Suburban,2025-12-01,2204.5,2291.0,0.3333,Medium
+Gujarat,Bharuch,2025-12-01,1547.25,1514.0,0.3333,Medium
+Gujarat,Sabarkantha,2025-12-01,1750.75,1708.67,0.3333,Medium
+Gujarat,Panchmahals,2025-12-01,1122.0,1134.33,0.3333,Medium
+Gujarat,Surendranagar,2025-12-01,216.0,195.67,0.3333,Medium
+Jammu and Kashmir,Baramula,2025-12-01,686.0,661.0,0.3333,Medium
+Bihar,Pashchim Champaran,2025-12-01,153.0,156.67,0.3333,Medium
+Assam,Dima Hasao,2025-12-01,53.25,60.67,0.3333,Medium
+Jammu and Kashmir,Jammu,2025-12-01,1711.0,1667.0,0.3333,Medium
+Mizoram,Lawngtlai,2025-12-01,161.0,154.33,0.3333,Medium
+Maharashtra,Yavatmal,2025-12-01,1310.25,1344.33,0.3333,Medium
+Gujarat,Surendra Nagar,2025-12-01,1278.75,1265.67,0.3333,Medium
+Maharashtra,Washim,2025-12-01,511.75,542.33,0.3333,Medium
+Gujarat,Surat,2025-12-01,2858.0,2903.0,0.3333,Medium
+Gujarat,Sabar Kantha,2025-12-01,194.0,179.67,0.3333,Medium
+Gujarat,Tapi,2025-12-01,766.0,758.33,0.3333,Medium
+Andhra Pradesh,Prakasam,2025-12-01,4548.0,4133.67,0.3333,Medium
+Gujarat,Porbandar,2025-12-01,512.0,544.67,0.3333,Medium
+Haryana,Rohtak,2025-12-01,686.0,674.33,0.3333,Medium
+Jharkhand,Lohardaga,2025-12-01,285.5,279.67,0.3333,Medium
+Jharkhand,Deoghar,2025-12-01,647.5,656.33,0.3333,Medium
+Bihar,Araria,2025-12-01,796.75,788.0,0.3333,Medium
+Maharashtra,Nashik,2025-12-01,3114.5,3142.67,0.3333,Medium
+Maharashtra,Parbhani,2025-12-01,738.5,777.0,0.3333,Medium
+Jharkhand,Gumla,2025-12-01,713.25,705.33,0.3333,Medium
+Rajasthan,Jhunjhunun,2025-12-01,2072.0,1889.67,0.3326,Medium
+Haryana,Sirsa,2025-12-01,653.5,607.67,0.3313,Medium
+Karnataka,Dakshina Kannada,2025-12-01,3703.25,3438.33,0.3305,Medium
+Andhra Pradesh,Sri Potti Sriramulu Nellore,2025-12-01,1843.75,1603.33,0.3303,Medium
+Jharkhand,Ramgarh,2025-12-01,966.25,882.67,0.3295,Low
+Andaman and Nicobar Islands,Nicobar,2025-12-01,89.75,73.67,0.3294,Low
+Andhra Pradesh,Dr. B. R. Ambedkar Konaseema,2025-12-01,1646.0,1462.0,0.3278,Low
+West Bengal,Barddhaman,2025-12-01,6206.0,5633.0,0.3277,Low
+Jharkhand,Hazaribag,2025-12-01,391.75,345.0,0.3277,Low
+Himachal Pradesh,Sirmaur,2025-12-01,631.75,590.0,0.3262,Low
+Jammu and Kashmir,Kathua,2025-12-01,764.5,711.67,0.3262,Low
+Maharashtra,Gadchiroli,2025-12-01,689.5,649.0,0.3261,Low
+Chhattisgarh,Mahasamund,2025-12-01,340.0,311.0,0.3259,Low
+Andhra Pradesh,Anantapur,2025-12-01,3941.75,3624.0,0.3257,Low
+Uttar Pradesh,Rae Bareli,2025-12-01,1980.5,1806.33,0.3254,Low
+Himachal Pradesh,Kangra,2025-12-01,3782.0,3450.0,0.3253,Low
+Odisha,Ganjam,2025-12-01,3367.0,3114.67,0.3253,Low
+Pondicherry,Pondicherry,2025-12-01,911.75,824.67,0.3251,Low
+Himachal Pradesh,Hamirpur,2025-12-01,1561.75,1413.67,0.3245,Low
+Tamil Nadu,Ariyalur,2025-12-01,1193.25,1071.0,0.3233,Low
+Orissa,Bargarh,2025-12-01,170.5,150.0,0.3231,Low
+Andhra Pradesh,Ananthapur,2025-12-01,3333.5,3062.67,0.3229,Low
+Punjab,Barnala,2025-12-01,476.25,438.67,0.3226,Low
+Haryana,Karnal,2025-12-01,685.0,634.67,0.3206,Low
+Karnataka,Mysore,2025-12-01,2328.25,2165.0,0.3205,Low
+Jammu and Kashmir,Srinagar,2025-12-01,1152.0,1068.0,0.3203,Low
+Haryana,Yamuna Nagar,2025-12-01,628.5,580.67,0.3199,Low
+Chhattisgarh,Balod,2025-12-01,491.25,443.33,0.3193,Low
+Maharashtra,Kolhapur,2025-12-01,3422.25,3172.33,0.3185,Low
+Arunachal Pradesh,Pakke Kessang,2025-12-01,27.5,25.67,0.3184,Low
+Arunachal Pradesh,Upper Siang,2025-12-01,88.0,81.33,0.3177,Low
+Odisha,Kandhamal,2025-12-01,992.0,926.0,0.3175,Low
+Tamil Nadu,Theni,2025-12-01,1365.5,1239.0,0.3162,Low
+Jharkhand,Purbi Singhbhum,2025-12-01,686.0,611.33,0.3162,Low
+Andhra Pradesh,East Godavari,2025-12-01,6246.25,5722.33,0.3158,Low
+Odisha,Sundergarh,2025-12-01,2187.0,2026.33,0.3158,Low
+Madhya Pradesh,Harda,2025-12-01,137.5,130.67,0.3151,Low
+Assam,Tamulpur District,2025-12-01,139.25,129.33,0.3149,Low
+Odisha,Jagatsinghapur,2025-12-01,1130.5,1051.33,0.3149,Low
+Jharkhand,Garhwa,2025-12-01,473.75,433.0,0.3148,Low
+Tamil Nadu,Nagapattinam,2025-12-01,3662.0,3255.0,0.3145,Low
+Chhattisgarh,Dakshin Bastar Dantewada,2025-12-01,357.75,313.67,0.314,Low
+Dadra and Nagar Haveli and Daman and Diu,Diu,2025-12-01,42.0,38.67,0.3137,Low
+Odisha,Mayurbhanj,2025-12-01,2847.0,2641.33,0.3129,Low
+Himachal Pradesh,Chamba,2025-12-01,997.25,914.0,0.3126,Low
+Andhra Pradesh,Cuddapah,2025-12-01,3571.25,3251.33,0.3123,Low
+Jharkhand,Sahebganj,2025-12-01,526.75,495.67,0.3122,Low
+Odisha,Subarnapur,2025-12-01,294.75,258.0,0.3117,Low
+Maharashtra,Mumbai City,2025-12-01,1434.5,1332.0,0.3116,Low
+Chhattisgarh,Janjgir-champa,2025-12-01,932.25,853.67,0.3115,Low
+West Bengal,Bankura,2025-12-01,2816.5,2582.0,0.3114,Low
+Karnataka,Bagalkot *,2025-12-01,287.25,266.33,0.3102,Low
+Lakshadweep,Lakshadweep,2025-12-01,284.0,266.67,0.31,Low
+West Bengal,Murshidabad,2025-12-01,3976.5,3596.0,0.3099,Low
+Chhattisgarh,Jashpur,2025-12-01,681.25,610.33,0.3099,Low
+Orissa,Bhadrak,2025-12-01,609.25,560.0,0.308,Low
+Haryana,Palwal,2025-12-01,282.25,271.33,0.3079,Low
+Puducherry,Puducherry,2025-12-01,1032.5,951.67,0.3077,Low
+Jharkhand,Palamu,2025-12-01,773.75,711.0,0.3071,Low
+Jammu and Kashmir,Kulgam,2025-12-01,163.0,147.33,0.3067,Low
+Chhattisgarh,Kawardha,2025-12-01,205.25,185.67,0.3066,Low
+Odisha,Kendujhar,2025-12-01,1784.5,1665.0,0.3063,Low
+Jharkhand,Kodarma,2025-12-01,173.5,161.0,0.306,Low
+Tamil Nadu,Thoothukkudi,2025-12-01,3677.5,3303.67,0.3058,Low
+Tamil Nadu,Dindigul,2025-12-01,2468.5,2205.0,0.3055,Low
+Maharashtra,Bhandara,2025-12-01,897.5,839.67,0.3018,Low
+Chhattisgarh,Rajnandgaon,2025-12-01,623.0,570.67,0.3015,Low
+Rajasthan,Chittaurgarh,2025-12-01,383.75,329.0,0.3005,Low
+Tamil Nadu,Namakkal,2025-12-01,2551.5,2273.33,0.3004,Low
+Andhra Pradesh,Chittoor,2025-12-01,4400.0,3994.0,0.2994,Low
+Andhra Pradesh,Visakhapatnam,2025-12-01,4202.75,3718.0,0.2988,Low
+Chhattisgarh,Bemetara,2025-12-01,406.75,366.67,0.2984,Low
+Bihar,Sheohar,2025-12-01,278.75,259.0,0.2983,Low
+Telangana,Medchal−malkajgiri,2025-12-01,460.0,426.33,0.2982,Low
+Tamil Nadu,Tirunelveli,2025-12-01,4996.25,4562.0,0.2977,Low
+Jharkhand,Simdega,2025-12-01,325.25,297.67,0.297,Low
+Orissa,Balangir,2025-12-01,727.25,669.67,0.2969,Low
+Andhra Pradesh,Alluri Sitharama Raju,2025-12-01,1155.5,1043.0,0.2967,Low
+West Bengal,South 24 Parganas,2025-12-01,3963.0,3601.0,0.2954,Low
+Jammu and Kashmir,Kupwara,2025-12-01,309.75,289.33,0.2947,Low
+Haryana,Mahendragarh,2025-12-01,370.0,340.33,0.2947,Low
+Tamil Nadu,Tirupattur,2025-12-01,1071.0,917.0,0.2946,Low
+Arunachal Pradesh,East Kameng,2025-12-01,69.75,64.0,0.2935,Low
+Bihar,Sheikhpura,2025-12-01,361.25,333.0,0.2933,Low
+Odisha,Kendrapara,2025-12-01,1649.75,1538.67,0.2927,Low
+Mizoram,Khawzawl,2025-12-01,10.25,7.67,0.2926,Low
+Uttar Pradesh,Auraiya,2025-12-01,731.25,679.0,0.2923,Low
+Maharashtra,Raigarh,2025-12-01,2616.25,2397.0,0.2921,Low
+Punjab,Muktsar,2025-12-01,363.0,329.33,0.2914,Low
+Tamil Nadu,Karur,2025-12-01,1534.0,1361.67,0.2912,Low
+Punjab,Faridkot,2025-12-01,379.0,350.0,0.2909,Low
+Uttar Pradesh,Pratapgarh,2025-12-01,1741.25,1613.67,0.2907,Low
+Andhra Pradesh,Parvathipuram Manyam,2025-12-01,912.5,808.33,0.2904,Low
+Punjab,Shaheed Bhagat Singh Nagar,2025-12-01,1050.25,956.33,0.2897,Low
+Bihar,Purnea,2025-12-01,231.5,207.67,0.2896,Low
+Andhra Pradesh,Guntur,2025-12-01,4788.0,4319.0,0.2895,Low
+Andhra Pradesh,Nellore,2025-12-01,3621.5,3196.67,0.2888,Low
+Bihar,Khagaria,2025-12-01,701.25,637.67,0.2875,Low
+Tamil Nadu,Tiruchirappalli,2025-12-01,3912.0,3542.67,0.2856,Low
+Uttar Pradesh,Ballia,2025-12-01,1721.0,1608.33,0.2855,Low
+Arunachal Pradesh,Dibang Valley,2025-12-01,41.0,36.33,0.2834,Low
+Tamil Nadu,Perambalur,2025-12-01,1108.0,974.0,0.2821,Low
+Punjab,Malerkotla,2025-12-01,253.0,227.33,0.282,Low
+West Bengal,Purulia,2025-12-01,694.0,612.33,0.2817,Low
+Andhra Pradesh,Kurnool,2025-12-01,3867.75,3516.33,0.2816,Low
+Rajasthan,Rajsamand,2025-12-01,1171.5,1056.0,0.2813,Low
+Bihar,Aurangabad,2025-12-01,1289.75,1164.33,0.2809,Low
+Uttar Pradesh,Mirzapur,2025-12-01,760.75,692.67,0.2809,Low
+Telangana,Peddapalli,2025-12-01,592.5,552.0,0.2808,Low
+Andhra Pradesh,Hyderabad,2025-12-01,2551.75,2290.67,0.2803,Low
+Maharashtra,Raigarh(MH),2025-12-01,179.5,167.0,0.279,Low
+Rajasthan,Dausa,2025-12-01,1169.5,1057.67,0.279,Low
+Odisha,Kalahandi,2025-12-01,1108.5,1040.67,0.2789,Low
+Uttar Pradesh,Bhadohi,2025-12-01,509.75,457.33,0.2778,Low
+Odisha,Jagatsinghpur,2025-12-01,910.75,843.0,0.2776,Low
+Maharashtra,Ratnagiri,2025-12-01,3087.25,2819.0,0.2776,Low
+Haryana,Panchkula,2025-12-01,761.75,694.67,0.2769,Low
+Punjab,Pathankot,2025-12-01,517.25,472.0,0.2767,Low
+Rajasthan,Pratapgarh,2025-12-01,588.0,520.33,0.2759,Low
+Andhra Pradesh,Krishna,2025-12-01,4814.75,4315.0,0.2743,Low
+Punjab,Sri Muktsar Sahib,2025-12-01,640.0,591.0,0.2742,Low
+West Bengal,Paschim Medinipur,2025-12-01,3780.5,3406.67,0.274,Low
+Odisha,Jharsuguda,2025-12-01,764.5,715.67,0.2738,Low
+Maharashtra,Bid,2025-12-01,678.0,611.67,0.2735,Low
+West Bengal,Purba Medinipur,2025-12-01,4102.5,3665.67,0.2729,Low
+Bihar,Buxar,2025-12-01,1229.5,1104.0,0.272,Low
+Punjab,Fatehgarh Sahib,2025-12-01,631.25,582.33,0.2717,Low
+Orissa,Baleshwar,2025-12-01,623.25,597.67,0.2715,Low
+West Bengal,North Twenty Four Parganas,2025-12-01,2125.5,1833.33,0.2712,Low
+Bihar,Supaul,2025-12-01,1080.5,984.0,0.271,Low
+West Bengal,Maldah,2025-12-01,1078.0,940.33,0.2696,Low
+Tamil Nadu,Krishnagiri,2025-12-01,1654.0,1482.33,0.2693,Low
+Tamil Nadu,Dharmapuri,2025-12-01,1430.75,1273.67,0.2685,Low
+Punjab,Fazilka,2025-12-01,445.5,425.33,0.268,Low
+Punjab,Ferozepur,2025-12-01,713.75,657.0,0.2675,Low
+Andhra Pradesh,Mahabub Nagar,2025-12-01,1755.0,1650.67,0.267,Low
+Jammu & Kashmir,Jammu,2025-12-01,106.75,95.67,0.2666,Low
+Himachal Pradesh,Kinnaur,2025-12-01,400.0,361.33,0.2661,Low
+Arunachal Pradesh,Siang,2025-12-01,82.0,72.33,0.2648,Low
+Bihar,Kishanganj,2025-12-01,389.5,356.67,0.2647,Low
+Uttar Pradesh,Faizabad,2025-12-01,1692.5,1545.67,0.2642,Low
+Maharashtra,Ahmed Nagar,2025-12-01,967.0,854.67,0.2639,Low
+Andhra Pradesh,Vizianagaram,2025-12-01,3024.25,2679.67,0.2631,Low
+Arunachal Pradesh,Tawang,2025-12-01,111.75,99.33,0.263,Low
+Telangana,Mulugu,2025-12-01,426.0,388.67,0.2627,Low
+Odisha,Baudh,2025-12-01,190.5,176.33,0.2624,Low
+West Bangal,Hooghly,2025-12-01,32.5,28.33,0.2623,Low
+andhra pradesh,chittoor,2025-12-01,13.5,12.33,0.2621,Low
+Uttar Pradesh,Sonbhadra,2025-12-01,918.0,842.67,0.2617,Low
+Tamil Nadu,Erode,2025-12-01,2629.5,2352.0,0.2617,Low
+Bihar,Aurangabad(bh),2025-12-01,150.25,129.0,0.2608,Low
+Odisha,Dhenkanal,2025-12-01,928.25,878.67,0.2607,Low
+Maharashtra,Wardha,2025-12-01,772.0,713.0,0.2607,Low
+Andhra Pradesh,Srikakulam,2025-12-01,3143.75,2791.0,0.2605,Low
+Uttar Pradesh,Sant Kabir Nagar,2025-12-01,787.5,730.33,0.2604,Low
+Punjab,Rupnagar,2025-12-01,896.0,822.67,0.2599,Low
+Tamil Nadu,Tiruppur,2025-12-01,2777.25,2513.33,0.2594,Low
+Arunachal Pradesh,Namsai,2025-12-01,126.25,112.67,0.259,Low
+Jammu & Kashmir,Kathua,2025-12-01,24.5,20.67,0.2577,Low
+West Bengal,Bardhaman,2025-12-01,2511.0,2232.0,0.2577,Low
+Andhra Pradesh,Mahabubnagar,2025-12-01,52.5,50.67,0.2572,Low
+Orissa,Dhenkanal,2025-12-01,220.0,185.0,0.2563,Low
+Bihar,Madhepura,2025-12-01,845.0,769.33,0.2552,Low
+Bihar,Bhabua,2025-12-01,37.5,32.0,0.2545,Low
+Uttar Pradesh,Ghazipur,2025-12-01,1844.75,1691.33,0.2541,Low
+Punjab,S.A.S Nagar(Mohali),2025-12-01,500.5,455.0,0.2515,Low
+Manipur,Imphal East,2025-12-01,487.5,465.33,0.2513,Low
+Arunachal Pradesh,Anjaw,2025-12-01,41.75,36.33,0.2511,Low
+Rajasthan,Banswara,2025-12-01,827.75,748.67,0.2507,Low
+Odisha,Debagarh,2025-12-01,238.0,229.0,0.2505,Low
+Gujarat,Ahmedabad,2025-12-01,3240.0,3252.0,0.25,Low
+Madhya Pradesh,Khandwa,2025-12-01,572.5,623.67,0.25,Low
+Kerala,Thiruvananthapuram,2025-12-01,4475.0,4721.0,0.25,Low
+Kerala,Kollam,2025-12-01,4274.0,4238.33,0.25,Low
+Madhya Pradesh,Sheopur,2025-12-01,201.0,211.67,0.25,Low
+Kerala,Kannur,2025-12-01,3767.0,3746.67,0.25,Low
+Kerala,Thrissur,2025-12-01,5921.0,5913.0,0.25,Low
+Kerala,Malappuram,2025-12-01,4038.0,4110.33,0.25,Low
+Kerala,Ernakulam,2025-12-01,4562.0,4849.33,0.25,Low
+Maharashtra,Ahmadnagar,2025-12-01,3805.0,3766.67,0.25,Low
+Bihar,Rohtas,2025-12-01,1488.25,1363.33,0.25,Low
+Karnataka,Mysuru,2025-12-01,2177.0,2228.33,0.25,Low
+Andhra Pradesh,West Godavari,2025-12-01,5321.25,4639.0,0.2498,Low
+Orissa,Gajapati,2025-12-01,35.0,33.0,0.2495,Low
+West Bengal,Puruliya,2025-12-01,1797.5,1588.0,0.2495,Low
+Andhra Pradesh,Kakinada,2025-12-01,1362.5,1213.0,0.2495,Low
+Maharashtra,Buldana,2025-12-01,1068.5,976.33,0.2492,Low
+Manipur,Thoubal,2025-12-01,336.0,321.33,0.2472,Low
+West Bangal,Howrah,2025-12-01,11.5,11.5,0.246,Low
+Odisha,Gajapati,2025-12-01,691.5,643.0,0.2456,Low
+Uttar Pradesh,Allahabad,2025-12-01,1922.0,1754.0,0.2455,Low
+Maharashtra,Sindhudurg,2025-12-01,2086.75,1890.33,0.2436,Low
+Tamil Nadu,Kanyakumari,2025-12-01,2382.25,2134.67,0.2435,Low
+West Bengal,South Dinajpur,2025-12-01,466.5,405.67,0.2433,Low
+Punjab,Jalandhar,2025-12-01,2657.25,2420.0,0.2428,Low
+Andhra Pradesh,Nalgonda,2025-12-01,2411.75,2163.33,0.2426,Low
+Daman and Diu,Daman,2025-12-01,121.0,105.67,0.2425,Low
+West Bengal,West Midnapore,2025-12-01,1422.5,1255.33,0.2416,Low
+Orissa,Sambalpur,2025-12-01,90.0,77.67,0.2412,Low
+Andhra Pradesh,N. T. R,2025-12-01,1415.5,1243.0,0.2408,Low
+Goa,South Goa,2025-12-01,1376.25,1209.67,0.2407,Low
+Tamil Nadu,Tiruvallur,2025-12-01,3395.5,3057.0,0.2406,Low
+Maharashtra,Gondiya,2025-12-01,601.5,559.33,0.2405,Low
+Andhra Pradesh,Medak,2025-12-01,1844.25,1686.0,0.2402,Low
+Andhra Pradesh,Khammam,2025-12-01,2258.5,2057.0,0.2401,Low
+Tamil Nadu,Kanniyakumari,2025-12-01,2781.75,2488.0,0.2388,Low
+Andhra Pradesh,Warangal,2025-12-01,2749.0,2435.67,0.236,Low
+Tripura,Khowai,2025-12-01,205.25,184.67,0.2355,Low
+Punjab,Firozpur,2025-12-01,682.75,630.33,0.2337,Low
+Bihar,Samstipur,2025-12-01,159.75,136.0,0.2328,Low
+Jharkhand,Sahibganj,2025-12-01,137.25,115.0,0.2325,Low
+Rajasthan,Dhaulpur,2025-12-01,69.5,58.0,0.2324,Low
+Uttar Pradesh,Chitrakoot,2025-12-01,345.5,310.33,0.2314,Low
+Andhra Pradesh,Mahbubnagar,2025-12-01,1491.0,1384.33,0.2307,Low
+Punjab,Mansa,2025-12-01,471.25,440.0,0.2305,Low
+Telangana,Kamareddy,2025-12-01,864.5,789.0,0.2289,Low
+Jammu & Kashmir,Srinagar,2025-12-01,8.0,7.0,0.2286,Low
+Delhi,North East,2025-12-01,143.0,129.33,0.2284,Low
+Andhra Pradesh,Rangareddi,2025-12-01,2324.25,2029.33,0.2271,Low
+Uttar Pradesh,Hamirpur,2025-12-01,658.75,590.0,0.2269,Low
+Puducherry,Pondicherry,2025-12-01,19.0,16.33,0.2262,Low
+Himachal Pradesh,Shimla,2025-12-01,2033.0,1830.0,0.2251,Low
+Arunachal Pradesh,Kra Daadi,2025-12-01,43.0,39.0,0.2245,Low
+West Bengal,Haora,2025-12-01,1861.0,1651.33,0.2244,Low
+Orissa,Sonapur,2025-12-01,31.75,26.67,0.2244,Low
+Tamil Nadu,Tiruvannamalai,2025-12-01,3051.75,2733.67,0.2239,Low
+Uttar Pradesh,Amethi,2025-12-01,1620.25,1471.0,0.2233,Low
+Tripura,South Tripura,2025-12-01,867.0,777.67,0.223,Low
+Odisha,Sonapur,2025-12-01,376.25,353.0,0.222,Low
+Arunachal Pradesh,Lower Siang,2025-12-01,62.5,54.0,0.2219,Low
+Delhi,South East Delhi,2025-12-01,41.75,37.33,0.2218,Low
+West Bengal,East Midnapore,2025-12-01,2280.0,2012.0,0.2217,Low
+West Bengal,Koch Bihar,2025-12-01,1426.25,1276.33,0.2213,Low
+Karnataka,Chikmagalur,2025-12-01,208.5,192.0,0.2213,Low
+West bengal,hooghly,2025-12-01,13.5,11.67,0.2204,Low
+Uttar Pradesh,Kushinagar *,2025-12-01,27.5,24.67,0.2195,Low
+Telangana,Rajanna Sircilla,2025-12-01,521.5,471.67,0.2189,Low
+Andaman & Nicobar Islands,South Andaman,2025-12-01,103.75,96.0,0.2161,Low
+Andhra Pradesh,Karim Nagar,2025-12-01,359.0,332.0,0.2156,Low
+Telangana,Jogulamba Gadwal,2025-12-01,409.0,370.67,0.214,Low
+Pondicherry,Karaikal,2025-12-01,276.25,243.0,0.2106,Low
+Sikkim,East Sikkim,2025-12-01,334.25,286.0,0.2087,Low
+Tamil Nadu,Viluppuram,2025-12-01,3661.5,3266.67,0.2076,Low
+Telangana,Karimnagar,2025-12-01,3539.25,3180.0,0.2074,Low
+Punjab,Nawanshahr,2025-12-01,774.5,714.0,0.2068,Low
+Telangana,Jagitial,2025-12-01,811.75,746.0,0.2055,Low
+Telangana,Nizamabad,2025-12-01,2194.5,1999.67,0.2051,Low
+Telangana,Medak,2025-12-01,3135.5,2850.33,0.2041,Low
+Sikkim,South,2025-12-01,218.25,187.67,0.2036,Low
+Telangana,Warangal Urban,2025-12-01,600.5,544.0,0.2026,Low
+Telangana,Adilabad,2025-12-01,1930.75,1760.67,0.201,Low
+Maharashtra,Sangli,2025-12-01,2458.5,2606.0,0.2,Low
+Telangana,Mancherial,2025-12-01,836.75,747.67,0.1993,Low
+Andhra Pradesh,Nizamabad,2025-12-01,1079.75,966.0,0.199,Low
+Telangana,Jangoan,2025-12-01,685.5,620.67,0.1969,Low
+Arunachal Pradesh,Upper Subansiri,2025-12-01,48.0,41.67,0.1961,Low
+Telangana,Mahabubnagar,2025-12-01,3071.25,2784.33,0.196,Low
+Haryana,Yamunanagar,2025-12-01,101.25,88.0,0.1926,Low
+Tamil Nadu,Virudhunagar,2025-12-01,2604.5,2303.33,0.1914,Low
+Tamil Nadu,Villupuram,2025-12-01,3792.25,3356.0,0.1907,Low
+Telangana,Khammam,2025-12-01,2116.75,1925.33,0.1878,Low
+Orissa,Kandhamal,2025-12-01,116.0,101.0,0.187,Low
+Telangana,Komaram Bheem,2025-12-01,396.25,360.33,0.1851,Low
+Arunachal Pradesh,Lower Dibang Valley,2025-12-01,44.25,41.0,0.1845,Low
+Arunachal Pradesh,West Siang,2025-12-01,146.25,127.0,0.1833,Low
+Sikkim,East,2025-12-01,367.75,318.33,0.1823,Low
+West Bengal,South Twenty Four Parganas,2025-12-01,1914.25,1668.0,0.1801,Low
+Orissa,Malkangiri,2025-12-01,60.0,51.67,0.1797,Low
+Mizoram,Mamit,2025-12-01,132.75,124.67,0.1773,Low
+Telangana,Nalgonda,2025-12-01,2491.75,2257.0,0.1761,Low
+Arunachal Pradesh,Papum Pare,2025-12-01,303.5,273.67,0.176,Low
+Telangana,Narayanpet,2025-12-01,503.75,475.33,0.1745,Low
+Arunachal Pradesh,East Siang,2025-12-01,89.75,80.67,0.174,Low
+West  Bengal,Hooghly,2025-12-01,31.5,28.0,0.1738,Low
+Sikkim,North Sikkim,2025-12-01,94.75,81.33,0.1736,Low
+Orissa,Kalahandi,2025-12-01,9.0,8.0,0.1732,Low
+Telangana,Nagarkurnool,2025-12-01,826.0,745.33,0.1731,Low
+Orissa,Nayagarh,2025-12-01,247.0,215.33,0.1723,Low
+Sikkim,West,2025-12-01,111.5,102.0,0.172,Low
+Meghalaya,Eastern West Khasi Hills,2025-12-01,27.0,23.67,0.1704,Low
+Telangana,Siddipet,2025-12-01,1212.0,1124.67,0.168,Low
+Odisha,Malkangiri,2025-12-01,420.0,397.0,0.1662,Low
+Telangana,Suryapet,2025-12-01,757.0,691.0,0.1636,Low
+West Bengal,NADIA,2025-12-01,3.5,3.5,0.1616,Low
+Arunachal Pradesh,Changlang,2025-12-01,252.25,223.67,0.1609,Low
+Telangana,Nirmal,2025-12-01,541.5,489.0,0.1609,Low
+Jammu and Kashmir,Leh,2025-12-01,180.0,169.33,0.1608,Low
+Telangana,Yadadri.,2025-12-01,648.25,585.67,0.1588,Low
+Manipur,Chandel,2025-12-01,273.75,250.0,0.1578,Low
+Arunachal Pradesh,Tirap,2025-12-01,153.0,142.33,0.1576,Low
+Jammu & Kashmir,Baramula,2025-12-01,36.0,31.67,0.1541,Low
+Arunachal Pradesh,Kurung Kumey,2025-12-01,41.0,38.33,0.154,Low
+Manipur,Kakching,2025-12-01,96.5,91.67,0.1494,Low
+Orissa,Kendujhar,2025-12-01,99.75,90.0,0.1462,Low
+Telangana,Warangal,2025-12-01,2740.75,2474.33,0.1456,Low
+Manipur,Tamenglong,2025-12-01,247.5,231.33,0.143,Low
+Manipur,Ukhrul,2025-12-01,217.0,196.33,0.1429,Low
+Telangana,Sangareddy,2025-12-01,1316.25,1182.0,0.1409,Low
+Sikkim,North,2025-12-01,73.25,63.0,0.1392,Low
+Maharashtra,Nandurbar *,2025-12-01,227.75,211.67,0.1384,Low
+Telangana,Vikarabad,2025-12-01,793.75,720.33,0.1324,Low
+Manipur,Senapati,2025-12-01,854.75,778.0,0.1315,Low
+Telangana,Warangal Rural,2025-12-01,755.75,681.67,0.1287,Low
+Telangana,Mahabubabad,2025-12-01,646.25,584.33,0.1282,Low
+Orissa,Baleswar,2025-12-01,4.5,4.5,0.1257,Low
+Telangana,Rangareddy,2025-12-01,199.75,187.33,0.1235,Low
+West Bengal,North Dinajpur,2025-12-01,411.25,372.33,0.1233,Low
+Telangana,Wanaparthy,2025-12-01,513.75,468.0,0.1221,Low
+Mizoram,Aizawl,2025-12-01,560.0,545.67,0.1156,Low
+Telangana,Jayashankar Bhupalpally,2025-12-01,375.5,350.33,0.1146,Low
+Telangana,Hanumakonda,2025-12-01,917.25,837.0,0.1144,Low
+Mizoram,Mammit,2025-12-01,97.75,96.33,0.1056,Low
+Manipur,Jiribam,2025-12-01,79.5,76.0,0.1029,Low
+Telangana,Warangal (urban),2025-12-01,26.5,25.33,0.1015,Low
+Arunachal Pradesh,Lower Subansiri,2025-12-01,71.25,64.0,0.1004,Low
+Goa,Bardez,2025-12-01,14.5,14.5,0.0962,Low
+Mizoram,Hnahthial,2025-12-01,12.0,12.0,0.0943,Low
+Andhra Pradesh,K.V.Rangareddy,2025-12-01,256.25,237.67,0.0895,Low
+Telangana,Jangaon,2025-12-01,126.25,113.0,0.0851,Low
+Mizoram,Serchhip,2025-12-01,109.75,101.0,0.0829,Low
+Orissa,Mayurbhanj,2025-12-01,30.25,29.0,0.0596,Low
+WEST BENGAL,HOOGHLY,2025-12-01,9.5,9.5,0.0595,Low
+Chandigarh,Rupnagar,2025-12-01,9.5,9.5,0.0595,Low
+Mizoram,Champhai,2025-12-01,175.5,176.33,0.0,Low
+Nagaland,Noklak,2025-12-01,46.0,42.0,0.0,Low
+Nagaland,Niuland,2025-12-01,44.75,42.33,0.0,Low
+Nagaland,Mon,2025-12-01,156.0,161.67,0.0,Low
+West Bengal,Medinipur West,2025-12-01,0.0,0.0,0.0,Low
+Odisha,Anugal,2025-12-01,3.0,3.0,0.0,Low
+Assam,Sivasagar,2025-12-01,0.0,0.0,0.0,Low
+Orissa,Jagatsinghapur,2025-12-01,65.25,52.0,0.0,Low
+West Bengal,24 Paraganas North,2025-12-01,0.0,0.0,0.0,Low
+Chhattisgarh,Gaurella Pendra Marwahi,2025-12-01,0.0,0.0,0.0,Low
+Gujarat,Dang,2025-12-01,0.0,0.0,0.0,Low
+The Dadra And Nagar Haveli And Daman And Diu,Dadra And Nagar Haveli,2025-12-01,0.0,0.0,0.0,Low
+Uttar Pradesh,Shravasti,2025-12-01,0.0,0.0,0.0,Low
+Uttar Pradesh,Siddharth Nagar,2025-12-01,0.0,0.0,0.0,Low
+Arunachal Pradesh,Longding,2025-12-01,113.0,99.67,0.0,Low
+Telangana,Medchal Malkajgiri,2025-12-01,0.0,0.0,0.0,Low
+Andhra Pradesh,Spsr Nellore,2025-12-01,0.0,0.0,0.0,Low
+Haryana,Gurugram,2025-12-01,0.0,0.0,0.0,Low
+Nagaland,Mokokchung,2025-12-01,199.0,206.0,0.0,Low
+Orissa,Koraput,2025-12-01,252.75,196.67,0.0,Low
+Jammu & Kashmir,Bandipur,2025-12-01,0.0,0.0,0.0,Low
+Bihar,Purbi Champaran,2025-12-01,0.0,0.0,0.0,Low
+West Bengal,Coochbehar,2025-12-01,0.0,0.0,0.0,Low
+Jammu & Kashmir,Pulwama,2025-12-01,1.0,1.0,0.0,Low
+West Bengal,Dinajpur Uttar,2025-12-01,0.0,0.0,0.0,Low
+Jammu and Kashmir,Shupiyan,2025-12-01,50.0,48.67,0.0,Low
+Karnataka,Bengaluru Urban,2025-12-01,0.0,0.0,0.0,Low
+Madhya Pradesh,Ashoknagar,2025-12-01,0.0,0.0,0.0,Low
+Punjab,S.A.S Nagar,2025-12-01,0.0,0.0,0.0,Low
+Nagaland,Kiphire,2025-12-01,44.0,46.67,0.0,Low

@@ -1,0 +1,11 @@
+Rank,State,District,Stress_Likelihood,Normal_Capacity,Predicted_Updates,Risk_Level
+1,Delhi,South Delhi,1.0,818.25,892.67,High
+2,Assam,Marigaon,1.0,537.0,583.67,High
+3,Uttar Pradesh,Pilibhit,1.0,369.75,385.33,High
+4,Assam,Sonitpur,1.0,1417.0,1570.67,High
+5,Uttar Pradesh,Moradabad,1.0,748.5,770.0,High
+6,Uttar Pradesh,Meerut,1.0,930.75,963.67,High
+7,Bihar,Gaya,1.0,1413.0,1470.67,High
+8,Uttarakhand,Dehradun,1.0,1298.0,1474.33,High
+9,Bihar,Kaimur (Bhabua),1.0,460.25,481.67,High
+10,Uttar Pradesh,Maharajganj,1.0,656.0,689.67,High

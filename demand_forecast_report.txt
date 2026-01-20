@@ -1,0 +1,16 @@
+======================================================================
+AADHAAR DEMAND FORECAST - OPERATIONAL SUMMARY
+======================================================================
+
+Total Districts Analyzed: 15
+  - High Demand:        0 (  0.0%)
+  - Elevated Demand:    1 (  6.7%)
+  - Normal Demand:     14 ( 93.3%)
+
+STATE-LEVEL BREAKDOWN
+----------------------------------------------------------------------
+Delhi                | High:   0 | Elevated:   0 | Total:   3
+Karnataka            | High:   0 | Elevated:   0 | Total:   3
+Maharashtra          | High:   0 | Elevated:   0 | Total:   3
+Tamil Nadu           | High:   0 | Elevated:   0 | Total:   3
+West Bengal          | High:   0 | Elevated:   1 | Total:   3

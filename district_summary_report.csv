@@ -1,0 +1,7 @@
+state,district,total_anomalies,persistent_count,self_correcting_count,uncertain_count,pct_persistent,pct_self_correcting,avg_persistence_probability
+Karnataka,Bangalore Urban,5,0,5,0,0.0,100.0,0.06
+Karnataka,Mysore,5,0,5,0,0.0,100.0,0.04
+Maharashtra,Mumbai,3,0,3,0,0.0,100.0,0.1
+Maharashtra,Pune,3,0,3,0,0.0,100.0,0.0
+Tamil Nadu,Chennai,2,0,2,0,0.0,100.0,0.05
+Tamil Nadu,Coimbatore,7,0,7,0,0.0,100.0,0.043

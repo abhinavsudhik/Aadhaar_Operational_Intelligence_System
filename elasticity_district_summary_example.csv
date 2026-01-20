@@ -1,0 +1,16 @@
+state,district,elasticity_score,elasticity_classification,expected_intervention_effectiveness,policy_recommendation
+Karnataka,Bangalore,1.0,Low,Limited,Anomalies persist despite capacity increases; investigate structural/systemic issues
+Karnataka,Belgaum,0.7499999999999998,Low,Limited,Anomalies persist despite capacity increases; investigate structural/systemic issues
+Karnataka,Mangalore,0.3806594488188976,Moderate,Moderately Effective,Capacity increases show mixed results; investigate root causes of persistent anomalies
+Maharashtra,Aurangabad,0.5714285714285715,Moderate,Moderately Effective,Capacity increases show mixed results; investigate root causes of persistent anomalies
+Maharashtra,Mumbai,0.0,High,Effective,Capacity increases have demonstrated effectiveness; continue expansion strategy
+Maharashtra,Pune,0.36374442793462103,Moderate,Moderately Effective,Capacity increases show mixed results; investigate root causes of persistent anomalies
+Tamil Nadu,Chennai,0.15000000000000002,High,Effective,Capacity increases have demonstrated effectiveness; continue expansion strategy
+Tamil Nadu,Coimbatore,0.37104377104377106,Moderate,Moderately Effective,Capacity increases show mixed results; investigate root causes of persistent anomalies
+Tamil Nadu,Villupuram,0.47346625766871175,Moderate,Moderately Effective,Capacity increases show mixed results; investigate root causes of persistent anomalies
+Uttar Pradesh,Agra,0.2992607231737666,High,Effective,Capacity increases have demonstrated effectiveness; continue expansion strategy
+Uttar Pradesh,Kanpur,1.0,Low,Limited,Anomalies persist despite capacity increases; investigate structural/systemic issues
+Uttar Pradesh,Lucknow,0.42962962962962964,Moderate,Moderately Effective,Capacity increases show mixed results; investigate root causes of persistent anomalies
+West Bengal,Durgapur,0.5468354430379747,Moderate,Moderately Effective,Capacity increases show mixed results; investigate root causes of persistent anomalies
+West Bengal,Howrah,0.25699862322166134,High,Effective,Capacity increases have demonstrated effectiveness; continue expansion strategy
+West Bengal,Kolkata,0.37772397094431,Moderate,Moderately Effective,Capacity increases show mixed results; investigate root causes of persistent anomalies

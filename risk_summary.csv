@@ -1,0 +1,5 @@
+Risk_Level,District_Count,Percentage,Avg_Stress_Likelihood
+High,97,9.5,0.9474
+Medium,580,56.5,0.4685
+Low,349,34.0,0.2233
+Total,1026,100.0,0.4304

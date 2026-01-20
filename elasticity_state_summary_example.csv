@@ -1,0 +1,6 @@
+state,total_districts_analyzed,high_elasticity_districts,moderate_elasticity_districts,low_elasticity_districts,capacity_responsive_pct,low_elasticity_pct,avg_elasticity_score
+Karnataka,3,0,1,2,0.0,66.66666666666666,0.7102198162729657
+Maharashtra,3,1,2,0,33.33333333333333,0.0,0.3117243331210642
+Tamil Nadu,3,1,2,0,33.33333333333333,0.0,0.33150334290416095
+Uttar Pradesh,3,1,1,1,33.33333333333333,33.33333333333333,0.5762967842677987
+West Bengal,3,1,2,0,33.33333333333333,0.0,0.393852679067982

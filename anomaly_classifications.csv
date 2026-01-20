@@ -1,0 +1,26 @@
+state,district,indicator,anomaly_month,persistence_probability,classification,recommended_response,anomaly_magnitude,baseline_mean,months_elevated
+Karnataka,Bangalore Urban,mpi,2023-05-01,0.0,Likely Self-Correcting,Monitor – No immediate action,39.247746304049855,99.86269940020941,0
+Karnataka,Bangalore Urban,mpi,2024-08-01,0.0,Likely Self-Correcting,Monitor – No immediate action,37.73301005196955,99.60844812192329,0
+Karnataka,Bangalore Urban,mpi,2025-09-01,0.3,Likely Self-Correcting,Monitor – No immediate action,35.386535711370854,100.09894430521672,0
+Karnataka,Bangalore Urban,ssi,2023-10-01,0.0,Likely Self-Correcting,Monitor – No immediate action,30.91026028159451,99.51927962821854,0
+Karnataka,Bangalore Urban,ssi,2024-11-01,0.0,Likely Self-Correcting,Monitor – No immediate action,27.768682564439143,101.06680043897298,0
+Karnataka,Mysore,mpi,2023-06-01,0.0,Likely Self-Correcting,Monitor – No immediate action,29.772323579706047,102.30190332709908,0
+Karnataka,Mysore,mpi,2024-11-01,0.0,Likely Self-Correcting,Monitor – No immediate action,19.020201285437466,101.1773840670486,0
+Karnataka,Mysore,ssi,2024-09-01,0.1,Likely Self-Correcting,Monitor – No immediate action,26.639950453311503,102.01233032679488,1
+Karnataka,Mysore,ssi,2024-11-01,0.1,Likely Self-Correcting,Monitor – No immediate action,15.933704718730361,105.40851979353762,1
+Karnataka,Mysore,ssi,2025-10-01,0.0,Likely Self-Correcting,Monitor – No immediate action,39.06621036694813,102.4785803831203,0
+Maharashtra,Mumbai,mpi,2023-07-01,0.1,Likely Self-Correcting,Monitor – No immediate action,17.901816012672906,101.40277075545737,1
+Maharashtra,Mumbai,mpi,2023-08-01,0.1,Likely Self-Correcting,Monitor – No immediate action,16.018220057974254,105.83795380785917,1
+Maharashtra,Mumbai,mpi,2024-02-01,0.1,Likely Self-Correcting,Monitor – No immediate action,24.36531536566178,100.90098695839994,1
+Maharashtra,Pune,ssi,2024-01-01,0.0,Likely Self-Correcting,Monitor – No immediate action,34.98525997272607,98.68921674184946,0
+Maharashtra,Pune,ssi,2024-08-01,0.0,Likely Self-Correcting,Monitor – No immediate action,21.31092360860052,98.2203300465725,0
+Maharashtra,Pune,ssi,2025-01-01,0.0,Likely Self-Correcting,Monitor – No immediate action,23.05197913957946,101.03989964025641,0
+Tamil Nadu,Chennai,ssi,2024-10-01,0.0,Likely Self-Correcting,Monitor – No immediate action,36.803097723603784,100.67416177728835,0
+Tamil Nadu,Chennai,ssi,2025-10-01,0.1,Likely Self-Correcting,Monitor – No immediate action,23.337479292278605,99.47108426282603,1
+Tamil Nadu,Coimbatore,mpi,2024-02-01,0.1,Likely Self-Correcting,Monitor – No immediate action,26.80167362774998,99.09158284252409,1
+Tamil Nadu,Coimbatore,mpi,2024-11-01,0.1,Likely Self-Correcting,Monitor – No immediate action,20.549304048323737,96.28423350095385,1
+Tamil Nadu,Coimbatore,mpi,2025-08-01,0.0,Likely Self-Correcting,Monitor – No immediate action,17.1377132713617,99.2666095576299,0
+Tamil Nadu,Coimbatore,ssi,2023-08-01,0.1,Likely Self-Correcting,Monitor – No immediate action,21.71693398462365,100.15748465663096,1
+Tamil Nadu,Coimbatore,ssi,2023-12-01,0.0,Likely Self-Correcting,Monitor – No immediate action,37.857470164012476,105.45508480374185,0
+Tamil Nadu,Coimbatore,ssi,2024-04-01,0.0,Likely Self-Correcting,Monitor – No immediate action,18.422140751720182,106.08562456210109,0
+Tamil Nadu,Coimbatore,ssi,2025-04-01,0.0,Likely Self-Correcting,Monitor – No immediate action,21.556601107495627,97.32651510166075,0
